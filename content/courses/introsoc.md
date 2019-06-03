@@ -12,7 +12,7 @@ image = "headers/doctors.jpg"
 caption = "Image credit: Piron Guillaume on [Unsplash](https://unsplash.com/photos/U4FyCp3-KzY)"
 +++
 
-**Next Offered Fall 2019*
+**Next Offered Fall 2019**
 
 I teach a section of Introduction to Sociology that uses health-related examples to introduce the major areas of interest in sociology. For each major topic, like social structure, race, or social class, major sociological principles are illustrated with examples drawn from the sociology of health and illness as well as allied fields like social epidemiology and public health.
 
