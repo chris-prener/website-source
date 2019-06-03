@@ -68,7 +68,7 @@ enableGitInfo = false
   avatar = "headShot.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "chris.prener@slu.edu"
   address = "1918 Morrissey Hall"
-  office_hours = "Wednesdays 10am-noon or email for appointment"
+  office_hours = "By appointment only for Summer 2019"
   phone = "1-314-977-4276"
   twitter = "chris-prener"
   skype = ""
@@ -295,10 +295,10 @@ enableGitInfo = false
   url = "#projects"
   weight = 6
 
-[[menu.main]]
-  name = "Lab"
-  url = "#lab"
-  weight = 7
+# [[menu.main]]
+#  name = "Lab"
+#  url = "#lab"
+#  weight = 7
 
 [[menu.main]]
   name = "Teaching"

@@ -22,101 +22,20 @@
     </item>
     
     <item>
-      <title>Crime</title>
-      <link>/tags/crime/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/crime/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data backup</title>
-      <link>/tags/data-backup/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
-      
-      <guid>/tags/data-backup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data science</title>
-      <link>/tags/data-science/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
-      
-      <guid>/tags/data-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecology</title>
-      <link>/tags/ecology/</link>
-      <pubDate>Tue, 08 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/ecology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecometrics</title>
-      <link>/tags/ecometrics/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/ecometrics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emergency-medicine</title>
-      <link>/tags/emergency-medicine/</link>
-      <pubDate>Fri, 04 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/emergency-medicine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GIS</title>
       <link>/tags/gis/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 19 May 2019 00:00:00 -0500</pubDate>
       
       <guid>/tags/gis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Health</title>
-      <link>/tags/health/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 -0500</pubDate>
       
-      <guid>/tags/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mental-health</title>
-      <link>/tags/mental-health/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/mental-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open-science</title>
-      <link>/tags/open-science/</link>
-      <pubDate>Tue, 08 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/open-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Race</title>
-      <link>/tags/race/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/race/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
@@ -130,51 +49,6 @@
     </item>
     
     <item>
-      <title>Segregation</title>
-      <link>/tags/segregation/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/segregation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>/tags/software/</link>
-      <pubDate>Tue, 08 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial statistics</title>
-      <link>/tags/spatial-statistics/</link>
-      <pubDate>Thu, 17 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/spatial-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial-statistics</title>
-      <link>/tags/spatial-statistics/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/spatial-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>St-louis</title>
-      <link>/tags/st-louis/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/st-louis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>St. Louis</title>
       <link>/tags/st.-louis/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 -0500</pubDate>
@@ -184,7 +58,142 @@
     </item>
     
     <item>
-      <title>Statistics</title>
+      <title>crime</title>
+      <link>/tags/crime/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/crime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data backup</title>
+      <link>/tags/data-backup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/tags/data-backup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data science</title>
+      <link>/tags/data-science/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecology</title>
+      <link>/tags/ecology/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecometrics</title>
+      <link>/tags/ecometrics/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/ecometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emergency-medicine</title>
+      <link>/tags/emergency-medicine/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/emergency-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>/tags/health/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mental-health</title>
+      <link>/tags/mental-health/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-science</title>
+      <link>/tags/open-science/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>race</title>
+      <link>/tags/race/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/race/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>segregation</title>
+      <link>/tags/segregation/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/segregation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>/tags/software/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatial statistics</title>
+      <link>/tags/spatial-statistics/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/spatial-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatial-statistics</title>
+      <link>/tags/spatial-statistics/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/spatial-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>st-louis</title>
+      <link>/tags/st-louis/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/st-louis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistics</title>
       <link>/tags/statistics/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
       
@@ -193,7 +202,7 @@
     </item>
     
     <item>
-      <title>Street barriers</title>
+      <title>street barriers</title>
       <link>/tags/street-barriers/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
@@ -202,7 +211,7 @@
     </item>
     
     <item>
-      <title>Teaching</title>
+      <title>teaching</title>
       <link>/tags/teaching/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
       
@@ -211,7 +220,7 @@
     </item>
     
     <item>
-      <title>Urban</title>
+      <title>urban</title>
       <link>/tags/urban/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
       
@@ -220,7 +229,7 @@
     </item>
     
     <item>
-      <title>Vacancy</title>
+      <title>vacancy</title>
       <link>/tags/vacancy/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 -0500</pubDate>
       
@@ -229,7 +238,7 @@
     </item>
     
     <item>
-      <title>Visual-sociology</title>
+      <title>visual-sociology</title>
       <link>/tags/visual-sociology/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
       
@@ -238,7 +247,7 @@
     </item>
     
     <item>
-      <title>Work</title>
+      <title>work</title>
       <link>/tags/work/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 -0500</pubDate>
       

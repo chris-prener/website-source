@@ -22,12 +22,12 @@
     </item>
     
     <item>
-      <title>New Software</title>
+      <title>New Paper and Updated Software</title>
       <link>/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>My R package areal, which implements a reproducible workflow for areal weighted interpolation, has been released on CRAN. This is a joint effort with SLU senior Charlie Revord. </description>
+      <description>My R package areal, which implements a reproducible workflow for areal weighted interpolation, has been updated on CRAN. This is a joint effort with recent SLU graduate Charlie Revord. A paper summarizing our work has also been recently published in The Journal of Open Source Software. </description>
     </item>
     
     <item>
@@ -111,20 +111,6 @@
       
       <guid>/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Lab</title>
-      <link>/home/lab/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/home/lab/</guid>
-      <description>Current Lab Members  Abby Curran (Sociology &amp;lsquo;19) Ecometric St. Louis 
- Cree Foeller (Biomedical Engineering &amp;lsquo;19) Ecometric St. Louis  openGIS 
- Branson Fox (Sociology &amp;amp; GIS &amp;lsquo;20) Ecometric St. Louis  openGIS 
- Charlie Revord (Sociology &amp;amp; GIS &amp;lsquo;19) openGIS 
-Lab Alumni  Taylor Braswell (Sociology MA &amp;lsquo;17) Ph.D. student in Sociology at Northeastern University Ecometric St. Louis 
- Kyle Miller (Sociology &amp;amp; GIS &amp;lsquo;17) Masters in Urban Planning Student at Harvard University; former Coro Fellow in Pittsburgh, PA  Ecometric St.</description>
     </item>
     
     <item>

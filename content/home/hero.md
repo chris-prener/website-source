@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15T00:00:00
 
-title = "New Software"
+title = "New Paper and Updated Software"
 
 # Order that this section will appear in.
 weight = 3
@@ -24,6 +24,5 @@ weight = 3
   label = '<i class="fas fa-external-link-alt"></i> Package Website'
 +++
 
-My R package areal, which implements a reproducible workflow for areal weighted interpolation, has been released on CRAN. This is a joint effort with SLU senior Charlie Revord.
-<br><br><br>
-
+My R package areal, which implements a reproducible workflow for areal weighted interpolation, has been updated on CRAN. This is a joint effort with recent SLU graduate Charlie Revord. A paper summarizing our work has also been recently published in  <a href="https://doi.org/10.21105/joss.01221" target="_blank">*The Journal of Open Source Software*</a>.
+<br><br>

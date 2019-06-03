@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>areal: An R package for areal weighted interpolation</title>
+      <link>/publication/areal/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/areal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Research Software</title>
       <link>/resources/software/</link>
       <pubDate>Thu, 29 Nov 2018 12:00:00 -0600</pubDate>
@@ -115,6 +124,16 @@
 &lt;h3 id=&#34;studying-for-short-answer-questions&#34;&gt;Studying for Short Answer Questions&lt;/h3&gt;
 
 &lt;p&gt;The &amp;ldquo;Big Questions&amp;rdquo; on the lecture notes are good fodder for studying. You&amp;rsquo;ll be given an example of something, like a picture, plot, map, or just a short description of some social phenomenon, and be asked to connect it to what we&amp;rsquo;ve been talking about. These tend to focus on a specific week or lecture, but the best answers will pull information in from the class as a whole. The more specifics you can give, in terms of defining terms and fully exploring the idea in the prompt, the stronger your answer will be.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -380,25 +399,6 @@
 &lt;p&gt;The course incorporates a wide variety of social, economic, health, urban, meteorological, and environmental data. We map these data at a variety of extents, from the City of St. Louis to the St. Louis Metropolitan region, Missouri, all United States counties, and all U.S. states. The course&amp;rsquo;s final project requires students to map a subset of a large (~740,000 observation) dataset of &lt;a href=&#34;https://www.stlouis-mo.gov/government/departments/public-safety/neighborhood-stabilization-office/citizens-service-bureau/&#34; target=&#34;_blank&#34;&gt;St. Louis City Citizens&amp;rsquo; Service Bureau&lt;/a&gt; requests.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc5650.github.io&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Website &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc5650.github.io/syllabus/&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Syllabus &lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>St. Louis&#39;s &#39;Urban Prairie&#39;: Vacant Land and the Potential for Revitalization</title>
-      <link>/publication/urban-prairie/</link>
-      <pubDate>Thu, 17 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/urban-prairie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>driftR</title>
-      <link>/project/driftr/</link>
-      <pubDate>Tue, 08 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/project/driftr/</guid>
-      <description>&lt;p&gt;The &lt;code&gt;driftR&lt;/code&gt; project originated out of a series of conversations between Chris and an undergraduate student in his &lt;a href=&#34;/courses/introgis/&#34;&gt;geoscience course&lt;/a&gt;, Andrew Shaughnessy, about reproducibility and the use of software to improve research processes. Andrew became specifically interested in improving the reproducibility of lab processes used in Dr. Elizabeth Hasenmueller&amp;rsquo;s &lt;a href=&#34;https://hasenmuellerlab.weebly.com&#34; target=&#34;_blank&#34;&gt;Hydrology and Geochemsitry Lab&lt;/a&gt; at Saint Louis University, and the &lt;code&gt;driftR&lt;/code&gt; project was born. Andrew, Liz, and Chris use the project to support the continued development of software tools, principally an &lt;a href=&#34;https://shaughnessyar.github.io/driftR/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;R&lt;/code&gt; package&lt;/a&gt;, that implement a series of equations and techniques for working with water quality monitoring data.&lt;/p&gt;
 </description>
     </item>
     

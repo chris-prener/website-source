@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software on Christopher Prener</title>
+    <title>software on Christopher Prener</title>
     <link>/tags/software/</link>
-    <description>Recent content in Software on Christopher Prener</description>
+    <description>Recent content in software on Christopher Prener</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2018 Christopher G. Prener</copyright>
-    <lastBuildDate>Tue, 08 May 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>areal: An R package for areal weighted interpolation</title>
+      <link>/publication/areal/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/areal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>driftR</title>

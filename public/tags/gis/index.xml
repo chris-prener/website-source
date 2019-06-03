@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2018 Christopher G. Prener</copyright>
-    <lastBuildDate>Wed, 23 May 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/gis/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>areal: An R package for areal weighted interpolation</title>
+      <link>/publication/areal/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/areal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SOC 4650 &amp; 5650 - Introduction to Geographic Information Science</title>
