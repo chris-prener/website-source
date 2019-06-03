@@ -1,0 +1,7 @@
+Package: website-source
+Type: Website
+Title: Professional Website Source Code
+Version: 0.0.1
+Imports:
+    blogdown
+Remotes: rstudio/blogdown
