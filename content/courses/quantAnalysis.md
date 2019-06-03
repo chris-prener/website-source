@@ -2,7 +2,7 @@
 title = "SOC 4015 & 5050 - Quantitative Analysis: Applied Inferential Statistics"
 
 date = 2018-05-23T00:00:00
-lastmod = 2018-05-23T00:00:00
+lastmod = 2019-06-03T00:00:00
 draft = false
 
 tags = ["statistics", "teaching"]
@@ -12,7 +12,7 @@ image = "headers/trend.jpg"
 caption = "Image credit: Chris Liverani on [Unsplash](https://unsplash.com/photos/dBI_My696Rk)"
 +++
 
-**Currently Offered Fall 2018**
+**Next Offered Fall 2018**
 
 I teach Quantitative Analysis at both the undergraduate and graduate levels. This course provides an introduction to applied statistical analysis with an emphasis placed on statistical techniques that are most common in the sociological literature. The statistical techniques introduced include measures of central tendency and dispersion as well as measures of bivariate association. Multivariate statistical analyses are also introduced. 
 

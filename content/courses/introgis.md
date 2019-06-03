@@ -2,7 +2,7 @@
 title = "SOC 4650 & 5650 - Introduction to Geographic Information Science"
 
 date = 2018-05-23T00:00:00
-lastmod = 2018-05-23T00:00:00
+lastmod = 2019-06-03T00:00:00
 draft = false
 
 tags = ["GIS", "teaching"]
@@ -12,7 +12,7 @@ image = "headers/map.jpg"
 caption = "Image credit: Mariusz Prusaczyk on [Unsplash](https://unsplash.com/photos/vwbbvgghKfs)"
 +++
 
-**Next Offered Spring 2019**
+**Next Offered Spring 2020**
 
 I teach Intro to GIS at both the undergraudate and graduate levels in a combined classroom, meaning that the course has a range of students from freshmen all the way to Ph.D. levels. Like my statistics course, Intro to GIS is built around a number of common data science tools and is designed to give students a solid grounding in modern scientific computing regardless of their background. [ArcGIS](https://www.arcgis.com) is the primary spatial software package used for this course. We also use `R` for data cleaning and manipulation as well as initial mapping.
 
