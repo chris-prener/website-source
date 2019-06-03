@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health on Christopher Prener</title>
+    <link>/tags/health/</link>
+    <description>Recent content in Health on Christopher Prener</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017-2018 Christopher G. Prener</copyright>
+    <lastBuildDate>Wed, 23 May 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SOC 1120 - Introduction to Sociology: Diversity &amp; Health</title>
+      <link>/courses/introsoc/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/courses/introsoc/</guid>
+      <description>Currently Offered Fall 2018, Next Offered Spring 2019
+I teach a section of Introduction to Sociology that uses health-related examples to introduce the major areas of interest in sociology. For each major topic, like social structure, race, or social class, major sociological principles are illustrated with examples drawn from the sociology of health and illness as well as allied fields like social epidemiology and public health.
+The course targets pre-medicine students who are preparing for the new MCAT exam, which includes a substantive section focused on both psychology and sociology.</description>
+    </item>
+    
+    <item>
+      <title>Detrimental Influences</title>
+      <link>/project/redlining/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/redlining/</guid>
+      <description>This is a brand new project that I am planning to begin work on once my book manuscript Medicine at the Margins is completed. My plan is to use several new sources of spatial data to explore the intersection of historic redlining, contemporary segregation, and population health outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Literacy and mental illness</title>
+      <link>/project/literacy/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/literacy/</guid>
+      <description>The literacy project is led by principle investigator Alisa K. Lincoln, based out of Northeastern Universtion. The original project was a National Institutes of Health funded R01 study aimed at understanding the impact that limited literacy had on individuals who were living with severe and persistent mental illness. Data collection has now been completed both at the original two study sites in the United States as well as at a third site in Australia, and the project team has transitioned to analysis and dissemination activities.</description>
+    </item>
+    
+    <item>
+      <title>Urban EMS Work</title>
+      <link>/project/ems/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/ems/</guid>
+      <description>The Emergency Medical Services (EMS) project is Chris&amp;rsquo;s original graduate research project. Begun in 2009 as a pilot study and expanded between 2011 and 2015 as Chris&amp;rsquo;s dissertation research, the project has aimed to understand the constraints on urban EMS work. In particular, Chris&amp;rsquo;s dissertation used a mix of ethnographic, qualitative, quantiative, and spatial techniques to understand how EMS work simultaneously shapes and is shaped by the neighborhoods where it occurs.</description>
+    </item>
+    
+  </channel>
+</rss>

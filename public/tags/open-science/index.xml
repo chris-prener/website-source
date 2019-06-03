@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open-science on Christopher Prener</title>
+    <link>/tags/open-science/</link>
+    <description>Recent content in Open-science on Christopher Prener</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017-2018 Christopher G. Prener</copyright>
+    <lastBuildDate>Tue, 08 May 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/open-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>driftR</title>
+      <link>/project/driftr/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/driftr/</guid>
+      <description>The driftR project originated out of a series of conversations between Chris and an undergraduate student in his geoscience course, Andrew Shaughnessy, about reproducibility and the use of software to improve research processes. Andrew became specifically interested in improving the reproducibility of lab processes used in Dr. Elizabeth Hasenmueller&amp;rsquo;s Hydrology and Geochemsitry Lab at Saint Louis University, and the driftR project was born. Andrew, Liz, and Chris use the project to support the continued development of software tools, principally an R package, that implement a series of equations and techniques for working with water quality monitoring data.</description>
+    </item>
+    
+    <item>
+      <title>Detrimental Influences</title>
+      <link>/project/redlining/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/redlining/</guid>
+      <description>This is a brand new project that I am planning to begin work on once my book manuscript Medicine at the Margins is completed. My plan is to use several new sources of spatial data to explore the intersection of historic redlining, contemporary segregation, and population health outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Ecometric St. Louis</title>
+      <link>/project/ecometrics/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/ecometrics/</guid>
+      <description>The Ecometric St. Louis project aims to document the effects of widespread crime, disinevestment, poverty, and segregation in St. Louis. I am specifically interested in measuring the relative &amp;ldquo;health&amp;rdquo; of neighborhoods in St. Louis by using metrics like the number of arson fires, violent crime rates, and vacant buildings. Another metric is the density of street closures in specific neighborhoods, which have been used since the 1970s to limit traffic into and out of particular neighborhoods on the city&amp;rsquo;s north side and across its midsection.</description>
+    </item>
+    
+    <item>
+      <title>openGIS</title>
+      <link>/project/opengis/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/opengis/</guid>
+      <description>The SLU Data Science Seminar, which Chris is a founding co-organizer of, is the host of Chris&amp;rsquo;s openGIS project. The project is a collaborative effort with SLU students to curate and host GIS data about the St. Louis area in an accessible manner. We also maintain several R packages that contain tools for working with spatial data that orginiates locally as well as more general R tools for working with spatial data.</description>
+    </item>
+    
+  </channel>
+</rss>

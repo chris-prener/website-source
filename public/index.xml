@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Prener on Christopher Prener</title>
+    <link>/</link>
+    <description>Recent content in Christopher Prener on Christopher Prener</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017-2018 Christopher G. Prener</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Research Software</title>
+      <link>/resources/software/</link>
+      <pubDate>Thu, 29 Nov 2018 12:00:00 -0600</pubDate>
+      
+      <guid>/resources/software/</guid>
+      <description>
+
+&lt;p&gt;My lab utilizes a variety of software tools to make our work more organized, open, and reproducible. All of the core software we use is either free and open-source or, if it is proprietary, is a tool I can arrange access to.&lt;/p&gt;
+
+&lt;h2 id=&#34;basecamp&#34;&gt;Basecamp&lt;/h2&gt;
+
+&lt;p&gt;All of my projects are managed through &lt;a href=&#34;http://basecamp.com&#34; target=&#34;_blank&#34;&gt;Basecamp&lt;/a&gt;. This is one tool that &lt;strong&gt;everyone&lt;/strong&gt; in the lab will need access to. Each lab member will be included in the PrenerHQ, where I&amp;rsquo;ll post infrequent annoucements that are general importance to everyone. Everyone will also be on one or more teams, depending on what you are working on. Teams are created around overarching themes (Ecometric St. Louis, Redlining, and Software Development). Everyone will also be included on one or more projects - these are specific to a paper or software package.&lt;/p&gt;
+
+&lt;p&gt;We use the &amp;ldquo;Campfire&amp;rdquo; within the HQ, a team, or a project for public chats, and &amp;ldquo;pings&amp;rdquo; for direct messages. Meeting notes, discussions, and resources are posted in the &amp;ldquo;Message Board&amp;rdquo;&amp;ldquo;, and we use &amp;ldquo;Docs &amp;amp; Files&amp;rdquo;&amp;rdquo; to share non-essential documents. Please keep your assigned items in the &amp;ldquo;To-dos&amp;rdquo; section up to date, and check the &amp;ldquo;Schedule&amp;rdquo; for upcoming meetings.&lt;/p&gt;
+
+&lt;h2 id=&#34;project-manaagement&#34;&gt;Project Manaagement&lt;/h2&gt;
+
+&lt;h4 id=&#34;zotero&#34;&gt;Zotero&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://zotero.org&#34; target=&#34;_blank&#34;&gt;Zotero&lt;/a&gt; is a new addition to the lab for 2019. Beginning in January, lab writing projects will have a corresponding group for sharing citations and sources. We can also use Zotero to create the &lt;code&gt;.bib&lt;/code&gt; files we need for our writing on Overleaf.&lt;/p&gt;
+
+&lt;h4 id=&#34;open-science-framework&#34;&gt;Open Science Framework&lt;/h4&gt;
+
+&lt;h4 id=&#34;git-and-github&#34;&gt;Git and GitHub&lt;/h4&gt;
+
+&lt;h2 id=&#34;programming&#34;&gt;Programming&lt;/h2&gt;
+
+&lt;h4 id=&#34;r-and-rstudio&#34;&gt;R and RStudio&lt;/h4&gt;
+
+&lt;h4 id=&#34;python&#34;&gt;Python&lt;/h4&gt;
+
+&lt;h2 id=&#34;gis&#34;&gt;GIS&lt;/h2&gt;
+
+&lt;h4 id=&#34;qgis&#34;&gt;QGIS&lt;/h4&gt;
+
+&lt;h4 id=&#34;arcgis-pro&#34;&gt;ArcGIS Pro&lt;/h4&gt;
+
+&lt;h2 id=&#34;writing&#34;&gt;Writing&lt;/h2&gt;
+
+&lt;h4 id=&#34;google-docs&#34;&gt;Google Docs&lt;/h4&gt;
+
+&lt;h4 id=&#34;overleaft&#34;&gt;Overleaft&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advising</title>
+      <link>/resources/advising/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/resources/advising/</guid>
+      <description>&lt;p&gt;I am the primary advisor for students who are in the Computational Geospatial Science minor and also advise some Sociology majors. This section contains guidance for students who are assigned to me as advisees, and also to students who may need support from me for things like letters of recommendations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>/resources/lab/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/resources/lab/</guid>
+      <description>&lt;p&gt;This&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Macademic</title>
+      <link>/resources/macademic/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/resources/macademic/</guid>
+      <description>&lt;p&gt;This&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Studying for Exams</title>
+      <link>/resources/exams/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/resources/exams/</guid>
+      <description>
+
+&lt;p&gt;I get a lot of questions, particularly from first year students, about the best ways to study for my exams. Here are some general thoughts on maximizing your changes for success.&lt;/p&gt;
+
+&lt;h2 id=&#34;get-everything-together&#34;&gt;Get Everything Together&lt;/h2&gt;
+
+&lt;p&gt;When I give advice, I assume that students have been taking notes on the readings, lectures, and documentaries. I think this is the single best things you can do to maximize your chances for success on my exams. When it is time to start studying, I recommend &lt;em&gt;synthesizing&lt;/em&gt; everything. That is, taking all of your notes on a particular topic (like &amp;ldquo;Culture&amp;rdquo;) and combining them together into a single study guide for each major heading on the syllabus.&lt;/p&gt;
+
+&lt;p&gt;Focus on major headings and keywords from chapters and lectures, as well as the names that show up in readings and during class. The highest probability questions come from topics that appear in both the readings and the lectures, though I&amp;rsquo;ll pull a few questions from the lectures that weren&amp;rsquo;t part of a reading and vice versa. I tend to create exams that provide pretty even coverage of the lectures within each section.&lt;/p&gt;
+
+&lt;h2 id=&#34;things-to-focus-on&#34;&gt;Things to Focus On&lt;/h2&gt;
+
+&lt;p&gt;My exams combine two question types - multiple choice and short answer.&lt;/p&gt;
+
+&lt;h3 id=&#34;studying-for-multiple-choice-questions&#34;&gt;Studying for Multiple Choice Questions&lt;/h3&gt;
+
+&lt;p&gt;Multiple choice questions tend to revolve around demonstrating that you know the definition of key terms or can reverse the process and identify a key term if given the definition. I sometimes test names of important sociologists directly - &amp;ldquo;which classical theorist is associated with theories related to organizations and bureaucracy?&amp;rdquo; (A: Weber). Other times I use the name as a hint or a clue regarding the correct answer. Other times I test both of these things by providing a scenario - &amp;ldquo;this particular person has been in the news - their leadership style is best represented by which of these Weberian ideal-types?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;You want to make sure you know, therefore, the main ideas expressed in each major topic of the course, the people that go along with them, the social theories we discuss, and the substance of really critical pieces of evidence (I might ask, for example, about the essential details from a documentary, case study, or illustrative example we&amp;rsquo;ve discussed in class). Often, questions related to this final point are pretty general and if you read between the lines, you can zero in on the correct answer if you think about the major themes at play even if you can&amp;rsquo;t remember the specific example the question asks about.&lt;/p&gt;
+
+&lt;h3 id=&#34;studying-for-short-answer-questions&#34;&gt;Studying for Short Answer Questions&lt;/h3&gt;
+
+&lt;p&gt;The &amp;ldquo;Big Questions&amp;rdquo; on the lecture notes are good fodder for studying. You&amp;rsquo;ll be given an example of something, like a picture, plot, map, or just a short description of some social phenomenon, and be asked to connect it to what we&amp;rsquo;ve been talking about. These tend to focus on a specific week or lecture, but the best answers will pull information in from the class as a whole. The more specifics you can give, in terms of defining terms and fully exploring the idea in the prompt, the stronger your answer will be.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting the Most out of Advising</title>
+      <link>/resources/advising_overview/</link>
+      <pubDate>Wed, 30 May 2018 12:00:00 -0500</pubDate>
+      
+      <guid>/resources/advising_overview/</guid>
+      <description>
+
+&lt;p&gt;Advising is a critical part of the undergraduate experience here at Saint Louis University. Like &lt;a href=&#34;/resources/letters&#34;&gt;letters of recommendation&lt;/a&gt;, I find that students are often unsure of how best to utilize and prepare for advising meetings. This post is meant to provide guidance specifically to my advisees, but is generally reflective of priorities that the Sociology and Computational Geospatial Science programs have in terms of advising.&lt;/p&gt;
+
+&lt;h2 id=&#34;two-advisers-one-goal&#34;&gt;Two Advisers, One Goal&lt;/h2&gt;
+
+&lt;p&gt;Every student at SLU should have &lt;em&gt;two&lt;/em&gt; advisers, an academic adviser in the College of Arts and Sciences (CAS), or in their home college, and a faculty mentor. You are strongly encouraged to meet with both your academic adviser and your faculty mentor on a regular basis since they serve slightly different functions.&lt;/p&gt;
+
+&lt;p&gt;The academic adviser is best positioned to make sure you are on pace to graduate and to help you navigate the &lt;a href=&#34;https://www.slu.edu/arts-and-sciences/student-resources/core-curriculum/core-requirements.php&#34; target=&#34;_blank&#34;&gt;core curriculum requirements&lt;/a&gt;. As your faculty mentor, I have a &lt;em&gt;general&lt;/em&gt; sense of the core curriculum requirements but will send you to your academic advisers for specific questions.&lt;/p&gt;
+
+&lt;p&gt;My role, in contrast, is to provide you with specific guidance on how to complete your major or minor in Sociology or Computation Geospatial Science. Faculty tend to know the specifics of program requirements and upcoming course offerings before CAS academic advisers do, and are also better positioned to provide advice on next steps after SLU like careers or graduate schools.&lt;/p&gt;
+
+&lt;h2 id=&#34;your-role&#34;&gt;Your Role&lt;/h2&gt;
+
+&lt;p&gt;Advising is not a one-way relationship - like all relationships, both of us have a job to do. Your job is to be &lt;em&gt;actively&lt;/em&gt; engaged in your academic career. Please create and maintain a &lt;strong&gt;four year plan&lt;/strong&gt; that includes &lt;em&gt;all&lt;/em&gt; of the courses you will need to take each semester to stay on course for graduation. The Sociology and Anthropology Department has created planning grids to help with this process:&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline btn-xs{{end}}&#34; href=&#34;/files/advising/SocPlanner.pdf&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-file-text&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Sociology Major &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline btn-xs{{end}}&#34; href=&#34;/files/advising/SocHonorsPlanner.pdf&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-file-text&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Sociology Major with Honors &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline btn-xs{{end}}&#34; href=&#34;/files/advising/SocMinorPlanner.pdf&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-file-text&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Sociology Minor &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline btn-xs{{end}}&#34; href=&#34;/files/advising/GISPlanner.pdf&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-file-text&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Computational Geospatial Science Minor &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You don&amp;rsquo;t have to use these worksheets, but they can be helpful for getting started. Many of my students create a digital version of these grids in Microsoft Excel or Apple Numbers. However you create your four year plan, you need one and you need to keep it updated!&lt;/p&gt;
+
+&lt;h2 id=&#34;when-to-come-see-me&#34;&gt;When to Come See Me&lt;/h2&gt;
+
+&lt;p&gt;If I am your academic adviser, you should see me &lt;em&gt;at least&lt;/em&gt; twice per year. I send out mass emails prior to course registration asking you to signup for an advising slot. If you don&amp;rsquo;t have much to talk about, sign up for a single 15 minute slot. If you have a lot to chat about, sign up for two or even three contiguous 15 minute slots.&lt;/p&gt;
+
+&lt;p&gt;Just because these are my two regular advising periods does not mean I am otherwise unavailable. Feel free to &lt;a href=&#34;mailto:chris.prener@slu.edu&#34; target=&#34;_blank&#34;&gt;email me&lt;/a&gt; to set-up a time to talk. I am &lt;strong&gt;always&lt;/strong&gt; happy to meet with my advisees to check-in or provide guidance in between course registration advising sessions.&lt;/p&gt;
+
+&lt;h2 id=&#34;getting-ready-for-our-meeting&#34;&gt;Getting Ready for Our Meeting&lt;/h2&gt;
+
+&lt;p&gt;Before you come in for your advising meeting, update your &lt;strong&gt;four year plan&lt;/strong&gt;. Make sure you have a good sense of what requirements you have completed and what courses you still need to take. If you are coming in for a pre-registration meeting, take a look at Banner and browse through the courses that are available. You can also stop by the Sociology and Anthropology Department to pick up an updated list of courses available for the next semester. Please come to your meeting with some ideas about what courses you&amp;rsquo;d like to take for the upcoming semester.&lt;/p&gt;
+
+&lt;p&gt;If you are meeting with me during the &lt;strong&gt;spring&lt;/strong&gt; of your &lt;strong&gt;junior year&lt;/strong&gt;, you will need to bring a form from your CAS adviser that lets them know what you still need to complete for your major or minor. If you don&amp;rsquo;t bring it, you will have to come back later and have me sign the form.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-to-expect-during-our-meeting&#34;&gt;What to Expect During Our Meeting&lt;/h2&gt;
+
+&lt;p&gt;When we meet, I&amp;rsquo;ll go through a copy of the appropriate degree checklist and four year plan (see &amp;ldquo;Your Role&amp;rdquo; above) and make sure you&amp;rsquo;re making forward progress towards completing your major or minor. I&amp;rsquo;ll also check in about any plans you might have for summer internships, research experience, jobs, and/or graduate school.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-to-do-after-we-meet&#34;&gt;What to Do After We Meet&lt;/h2&gt;
+
+&lt;p&gt;If you need forms or petitions signed, please make sure you follow-up with me. Please also pay attention to registration dates and register for courses as soon as possible to ensure that you get seats in the courses that you need to be in. I am typically unable to help if a course fills up, so please make sure you have all holds removed and are able to register on-time for courses. Once you are registered, stay in touch and let me know if any issues arise. Otherwise, plan to update your &lt;strong&gt;four year plan&lt;/strong&gt; with your registered courses and start planning for the next semester!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab FAQs</title>
+      <link>/resources/lab_faq/</link>
+      <pubDate>Wed, 30 May 2018 12:00:00 -0500</pubDate>
+      
+      <guid>/resources/lab_faq/</guid>
+      <description>
+
+&lt;h2 id=&#34;can-i-join-your-research-team&#34;&gt;Can I join your research team?&lt;/h2&gt;
+
+&lt;p&gt;I am always looking for motivated students who want to gain some research experience. As of Fall 2018, I do not have any additional paid positions on my research team - all involvement is on a voluntary or for credit basis. I keep an active list of the students who are working with me &lt;a href=&#34;https://chris-prener.github.io#lab&#34; target=&#34;_blank&#34;&gt;on my website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-type-of-commitment-does-it-take&#34;&gt;What type of commitment does it take?&lt;/h2&gt;
+
+&lt;p&gt;Typically my students who are volunteering their time put in a couple of hours per week at most. If you are looking for a for credit opportunity, I can arrange for a variety of configurations. A typical three credit hour research practicum requires a regular meeting each week as well as approximately six hours per week of work. I find that the students who get the most out of our collaborations are in it for the long hall - partnerships that last an academic year or longer. However, if you are looking to make a semester length commitment I am happy to talk to you about ways to make a short term contribution to my research team.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-projects-are-you-working-on&#34;&gt;What projects are you working on?&lt;/h2&gt;
+
+&lt;p&gt;You can see a full list of the projects that I am working on &lt;a href=&#34;https://chris-prener.github.io/#projects&#34; target=&#34;_blank&#34;&gt;on my website&lt;/a&gt;. At the present time, I have students working on two of these projects:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://chris-prener.github.io/project/ecometrics/&#34; target=&#34;_blank&#34;&gt;Ecometric St. Louis&lt;/a&gt; - all three of the major strands of the project (arson, &lt;a href=&#34;https://chris-prener.github.io/barriers/&#34; target=&#34;_blank&#34;&gt;barriers&lt;/a&gt;, and &lt;a href=&#34;https://chris-prener.github.io/vacancy/&#34; target=&#34;_blank&#34;&gt;urban prairies&lt;/a&gt;) have student collaborators. There is room for additional students to participate on both technical tasks (if you know a bit of &lt;code&gt;R&lt;/code&gt; or GIS) or on non-technical tasks.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chris-prener.github.io/project/opengis/&#34; target=&#34;_blank&#34;&gt;openGIS&lt;/a&gt; - both major strands of the project (data and software development) have student collaborators. There is room for additional students to participate, but it requires having some exposure to &lt;code&gt;R&lt;/code&gt; and/or GIS.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sounds-great-how-can-i-get-started&#34;&gt;Sounds great, how can I get started?&lt;/h2&gt;
+
+&lt;p&gt;If you are interested in joing my research team, please &lt;a href=&#34;mailto:chris.prener@slu.edu&#34; target=&#34;_blank&#34;&gt;email me&lt;/a&gt;. If you are a prospective student, feel free to &lt;a href=&#34;mailto:chris.prener@slu.edu&#34; target=&#34;_blank&#34;&gt;email me&lt;/a&gt; but you will need to apply for admission to the University as well. Either way, we should meet in person and talk about what experiences you hope to gain and how you can contribute to one of my ongoing projects!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internships</title>
+      <link>/resources/internships/</link>
+      <pubDate>Wed, 23 May 2018 12:00:00 -0500</pubDate>
+      
+      <guid>/resources/internships/</guid>
+      <description>
+
+&lt;p&gt;Internships are a critical way to build skills whether you are headed to graduate school or to a job after you graduate from SLU. Internships are something that I advise &lt;em&gt;all&lt;/em&gt; of my students to do if they can, though I recognize that unpaid internships and those that require owning a car can pose a barrier for some. Several of my students have been successful at identifying internships on-campus, which can be a great option.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Please note that I typically supervise internships only for students who are assigned to me for advising. If you are a Sociology or GIS student who is not my advisee, please speak to your mentor in the Department first.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;identifying-internships&#34;&gt;Identifying Internships&lt;/h2&gt;
+
+&lt;p&gt;There are a myraid of options when it comes to internships, which means finding the right opportunity will take some leg work. Start &lt;em&gt;well&lt;/em&gt; in advanced of when you want an internship experience. Some resources include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SLU&amp;rsquo;s &lt;a href=&#34;http://www.slu.edu/life-at-slu/career-services/index.php&#34; target=&#34;_blank&#34;&gt;Career Services Office&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SLU&amp;rsquo;s &lt;a href=&#34;https://slu.joinhandshake.com/login&#34; target=&#34;_blank&#34;&gt;Handshake&lt;/a&gt; database of jobs and internships&lt;/li&gt;
+&lt;li&gt;many State of Missouri agencies have dedicated internship pages&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nsf.gov/&#34; target=&#34;_blank&#34;&gt;National Science Foundation&lt;/a&gt; &lt;a href=&#34;https://www.nsf.gov/crssprgm/reu/reu_search.jsp&#34; target=&#34;_blank&#34;&gt;Research Experience for Undergraduate Programs&lt;/a&gt; - university research summer programs&lt;/li&gt;
+&lt;li&gt;USAJOBS &lt;a href=&#34;https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/&#34; target=&#34;_blank&#34;&gt;Student and Recent Graduate site&lt;/a&gt; - for opportunities at a federal agency&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are also some specific programs for students with technical and/or GIS skills:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codeforamerica.org&#34; target=&#34;_blank&#34;&gt;Code for America&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ESRI&amp;rsquo;s &lt;a href=&#34;https://www.esri.com/en-us/about/careers/student-jobs&#34; target=&#34;_blank&#34;&gt;Student Programs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The National Geospatial Intelligence Agency&amp;rsquo;s (NGA) &lt;a href=&#34;https://www.nga.mil/CAREERS/STUDENTOPP/Pages/default.aspx&#34; target=&#34;_blank&#34;&gt;Student Programs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finally, there are a few local public health related summer programs as well:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Casa De Salud, a SLU affiliated primary care clinic, has regular &lt;a href=&#34;https://casadesaludstl.org/volunteers/non-licensed-volunteers/&#34; target=&#34;_blank&#34;&gt;internship and volunteer opportunities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Washington University in St. Louis Institute for Public Health&amp;rsquo;s &lt;a href=&#34;https://publichealth.wustl.edu/institute-for-public-health-summer-research-program-public-and-global-health/&#34; target=&#34;_blank&#34;&gt;Summer Program&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;for-credit&#34;&gt;For Credit?&lt;/h2&gt;
+
+&lt;p&gt;It is possible to take internships for credit as part of your Sociology major as long as you are enrolled in a credit-bearing course &lt;em&gt;in the same semester&lt;/em&gt; that you complete the internship. You can take a variable number of credit hours (1 or more). Internship policies are set by the College of Arts and Sciences and are available &lt;a href=&#34;https://www.slu.edu/arts-and-sciences/student-resources/policies-procedures.php&#34; target=&#34;_blank&#34;&gt;on their website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You are not, however, required to complete internships for credit. Some of my students opt to do internships for the skills and experience alone, especially if internships are completed during the summer. The choice is yours, and I&amp;rsquo;m happy to meet with you to discuss your options.&lt;/p&gt;
+
+&lt;h2 id=&#34;internship-expectations&#34;&gt;Internship Expectations&lt;/h2&gt;
+
+&lt;p&gt;Part of the policies governing&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Letters of Recommendation</title>
+      <link>/resources/letters/</link>
+      <pubDate>Wed, 23 May 2018 12:00:00 -0500</pubDate>
+      
+      <guid>/resources/letters/</guid>
+      <description>
+
+&lt;p&gt;Letters of recommendation, or references more generally, are an important part of many internship, job, and graduate school applications. As faculty, we get requests every semester from students to (ideally) sing their praises. So, we expect you to ask! However, I&amp;rsquo;ve found that students are sometimes unsure both &lt;em&gt;who&lt;/em&gt; to ask and &lt;em&gt;how to ask&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;who-to-ask&#34;&gt;Who to Ask&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Ask professors who know you well and will have a lot to say about you.&lt;/strong&gt; For me, this means I&amp;rsquo;ve been able to get to know you outside of class. If you&amp;rsquo;ve never spoken up in class, come to office hours, or otherwise had some kind of interaction with me, it is nearly impossible for me to write a convincing, comprehensive letter of recommendation. This means you need to &lt;em&gt;think ahead&lt;/em&gt;! Don&amp;rsquo;t wait until you need a letter from me to swing by my office - start building that relationship well ahead of time so that, when it comes time to ask for the favor of a letter (and it will come time!), I am able to enthusiastically say &amp;lsquo;yes&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;Letters are easiest to write for students who I have had in more than one class. So, if you&amp;rsquo;ve only known me briefly and in a limited way, you should consider asking a faculty member who knows you better. Similarly, if you did not do well in the only class you&amp;rsquo;ve had with me, you are better off asking another faculty member who can speak to your strengths.&lt;/p&gt;
+
+&lt;p&gt;Another &amp;ldquo;trick&amp;rdquo; is to think of faculty as being specialists. I &lt;em&gt;can&lt;/em&gt; write a letter of recommendation on your behalf for admission to a doctoral program in chemistry, but do you really want me to? My letter will not carry the weight that a letter would from a faculty member in chemistry or an allied discipline.&lt;/p&gt;
+
+&lt;p&gt;The questions I suggest students ask themselves before approaching faculty are therefore:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;How well does the professor know me?&lt;/li&gt;
+&lt;li&gt;Which of my strengths can they speak to?&lt;/li&gt;
+&lt;li&gt;Can they uniquely speak to something related to this job/internship/graduate school application?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you aren&amp;rsquo;t sure if I am the best fit or not, swing by my office to ask! I&amp;rsquo;m happy to entertain informal requests and talk with you about the letter writing process ahead of time.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-ask&#34;&gt;How to Ask&lt;/h2&gt;
+
+&lt;p&gt;First and foremost, &lt;strong&gt;ask&lt;/strong&gt;! Nothing is more frustrating with this process than being cold-called by a colleague, an HR staff member, or by a supervisor asking for a recommendation that I am not prepared to give.&lt;/p&gt;
+
+&lt;p&gt;When you ask, &lt;strong&gt;ask well ahead of time&lt;/strong&gt;. This is less important if I am only serving as a reference and will not be required to write a letter on your behalf. I need, typically, at least &lt;strong&gt;two weeks notice&lt;/strong&gt; before a submission deadline for a student who I have not written a letter for previously.&lt;/p&gt;
+
+&lt;p&gt;When you approach me, make sure you &lt;strong&gt;have everything I will need&lt;/strong&gt; in hand. This means:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;a description of the position you are applying for,&lt;/li&gt;
+&lt;li&gt;a few ideas of things you want me to emphasize in my letter,&lt;/li&gt;
+&lt;li&gt;an updated resume,&lt;/li&gt;
+&lt;li&gt;and instructions on how I should submit your letter.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you are asking me to provide letters for more than one or two jobs, internships, or schools, please also provide a &lt;strong&gt;Google sheet&lt;/strong&gt; that breaks down each position by deadline so that I can make sure all of the letters get to their destinations on time.&lt;/p&gt;
+
+&lt;p&gt;Once you have all of your materials together, please &lt;strong&gt;come see me in person&lt;/strong&gt; instead of just emailing me. This will allow me the chance to ask you questions about the position and make sure I have everything that I need to write the best letter possible.&lt;/p&gt;
+
+&lt;h2 id=&#34;if-i-say-no&#34;&gt;If I Say &amp;lsquo;No&amp;rsquo;&lt;/h2&gt;
+
+&lt;p&gt;Please be forewarned that &lt;strong&gt;I might say &amp;lsquo;no&amp;rsquo; to a request&lt;/strong&gt; if I do not feel like I can write you a positive or comprehensive letter. This may be because you have not done well in my classes, or because I don&amp;rsquo;t know you well outside of class. This is particularly true for my larger classes like Introduction to Sociology, where I do not get a chance to know many students outside of the classroom. This goes back to my earlier advice - make sure you are asking faculty who know you well and who can speak to your strengths! I also might say &amp;lsquo;no&amp;rsquo; if I am not given sufficient lead time, so please heed my advice about asking for a letter early.&lt;/p&gt;
+
+&lt;p&gt;If I say &amp;lsquo;no&amp;rsquo;, please do not take it personally. I get multiple requests for recommendations and letters each semester, and I need to prioritize students that I am best positioned to write about. If I don&amp;rsquo;t feel like that is you, I&amp;rsquo;ll be more than happy to help you brainstorm about who might be best to ask.&lt;/p&gt;
+
+&lt;h2 id=&#34;following-up&#34;&gt;Following Up&lt;/h2&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve asked, and I&amp;rsquo;ve said &amp;lsquo;yes&amp;rsquo;, &lt;strong&gt;please follow-up as deadlines approach&lt;/strong&gt;. I do my best to get letters in before deadlines, and will reach out as I submit letters on your behalf to let you know about my progress. However, it is in your best interest to reach out if you have not heard from me and a deadline is approaching. Please don&amp;rsquo;t feel shy about reaching out.&lt;/p&gt;
+
+&lt;p&gt;Likewise, if you get one of the positions I&amp;rsquo;ve written a letter for, &lt;strong&gt;let me know&lt;/strong&gt;! It is always gratifying to hear about your successes, so please reach out with the good news!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SOC 1120 - Introduction to Sociology: Diversity &amp; Health</title>
+      <link>/courses/introsoc/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/courses/introsoc/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Currently Offered Fall 2018, Next Offered Spring 2019&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I teach a section of Introduction to Sociology that uses health-related examples to introduce the major areas of interest in sociology. For each major topic, like social structure, race, or social class, major sociological principles are illustrated with examples drawn from the sociology of health and illness as well as allied fields like social epidemiology and public health.&lt;/p&gt;
+
+&lt;p&gt;The course targets pre-medicine students who are preparing for the new MCAT exam, which includes a substantive section focused on both psychology and sociology. While my course is not an MCAT exam prep course, it does cover many of the basic concepts that also appear on the MCAT.&lt;/p&gt;
+
+&lt;p&gt;The course also has an &lt;strong&gt;honors section&lt;/strong&gt; each semester. As a group, honors students select three weeks of the syllabus to take a deeper dive into, completing extra readings in preparation for a dedicated honors seminar for each week. Students also choose a class from the reading list that they are interested in doing some additional research on in preparation for a ten-minute presentation to their peers during that lecture.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc1120.github.io/syllabus/&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Syllabus &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SOC 3220 - Urban Sociology &amp; The Wire</title>
+      <link>/courses/urbanwire/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/courses/urbanwire/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Currently On Hiatus&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the past, I have taught an upper-level undergraduate seminar focused on the modern American city. Using a unique television series about Baltimore, Maryland (&lt;em&gt;The Wire&lt;/em&gt;, which aired from 2002 until 2008), this course investigates the structural causes of urban social problems, trace their development, and explore their consequences. We discuss the interrelations between different social issues, the similarities between the experiences of Baltimore and St. Louis, and the prospects for urban social change. We focus on the first three seasons of The Wire and what they reveal about aspects of racial and class inequality that have been the concern of urban sociologists for decades. The course also has an &lt;strong&gt;honors section&lt;/strong&gt; each semester.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;/files/syllabi/soc3220-syllabus.pdf&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-file-text&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Syllabus &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;/files/syllabi/soc3220-readingList.pdf&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-file-text&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Reading List &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;/files/syllabi/soc3220-honorsSupplement.pdf&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-file-text&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Honors Supplement &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SOC 4015 &amp; 5050 - Quantitative Analysis: Applied Inferential Statistics</title>
+      <link>/courses/quantanalysis/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/courses/quantanalysis/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Currently Offered Fall 2018&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I teach Quantitative Analysis at both the undergraduate and graduate levels. This course provides an introduction to applied statistical analysis with an emphasis placed on statistical techniques that are most common in the sociological literature. The statistical techniques introduced include measures of central tendency and dispersion as well as measures of bivariate association. Multivariate statistical analyses are also introduced.&lt;/p&gt;
+
+&lt;p&gt;Like my GIS course, Quantitative Analysis is built around a number of common data science tools and is designed to give students a solid grounding in modern scientific computing regardless of their background. &lt;a href=&#34;https://en.wikipedia.org/wiki/R_(programming_language)&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;R&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.rstudio.com&#34; target=&#34;_blank&#34;&gt;RStudio&lt;/a&gt; are the primary statistical tools used for this course.&lt;/p&gt;
+
+&lt;p&gt;The course is built primarily around a number of data sets I&amp;rsquo;ve put together for teaching (released as the &lt;code&gt;R&lt;/code&gt; package &lt;a href=&#34;https://chris-prener.github.io/testDriveR/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;testDriveR&lt;/code&gt;&lt;/a&gt;) as well as the Current Population Survey and the General Social Survey. While the examples may be specific to the social sciences, the theories and skills that are covered are broadly applicable across academic disciplines. The course&amp;rsquo;s final project requires students to conduct a multivariate statistical analysis using the 2012 General Social Survey (for undergraduates) or a data set selected by each student (for graduate students).&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc5050.github.io&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Website &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc5050.github.io/syllabus/&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Syllabus &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SOC 4650 &amp; 5650 - Introduction to Geographic Information Science</title>
+      <link>/courses/introgis/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/courses/introgis/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Next Offered Spring 2019&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I teach Intro to GIS at both the undergraudate and graduate levels in a combined classroom, meaning that the course has a range of students from freshmen all the way to Ph.D. levels. Like my statistics course, Intro to GIS is built around a number of common data science tools and is designed to give students a solid grounding in modern scientific computing regardless of their background. &lt;a href=&#34;https://www.arcgis.com&#34; target=&#34;_blank&#34;&gt;ArcGIS&lt;/a&gt; is the primary spatial software package used for this course. We also use &lt;code&gt;R&lt;/code&gt; for data cleaning and manipulation as well as initial mapping.&lt;/p&gt;
+
+&lt;p&gt;Techniques introduced include data cleaning and management, map production and cartography, and the manipulation of both tabular and spatial data. The impacts of GIS on public policy, and the effects of public policy on GIS, are also discussed.&lt;/p&gt;
+
+&lt;p&gt;The course incorporates a wide variety of social, economic, health, urban, meteorological, and environmental data. We map these data at a variety of extents, from the City of St. Louis to the St. Louis Metropolitan region, Missouri, all United States counties, and all U.S. states. The course&amp;rsquo;s final project requires students to map a subset of a large (~740,000 observation) dataset of &lt;a href=&#34;https://www.stlouis-mo.gov/government/departments/public-safety/neighborhood-stabilization-office/citizens-service-bureau/&#34; target=&#34;_blank&#34;&gt;St. Louis City Citizens&amp;rsquo; Service Bureau&lt;/a&gt; requests.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc5650.github.io&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Website &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc5650.github.io/syllabus/&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Syllabus &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>St. Louis&#39;s &#39;Urban Prairie&#39;: Vacant Land and the Potential for Revitalization</title>
+      <link>/publication/urban-prairie/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/urban-prairie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>driftR</title>
+      <link>/project/driftr/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/driftr/</guid>
+      <description>&lt;p&gt;The &lt;code&gt;driftR&lt;/code&gt; project originated out of a series of conversations between Chris and an undergraduate student in his &lt;a href=&#34;/courses/introgis/&#34;&gt;geoscience course&lt;/a&gt;, Andrew Shaughnessy, about reproducibility and the use of software to improve research processes. Andrew became specifically interested in improving the reproducibility of lab processes used in Dr. Elizabeth Hasenmueller&amp;rsquo;s &lt;a href=&#34;https://hasenmuellerlab.weebly.com&#34; target=&#34;_blank&#34;&gt;Hydrology and Geochemsitry Lab&lt;/a&gt; at Saint Louis University, and the &lt;code&gt;driftR&lt;/code&gt; project was born. Andrew, Liz, and Chris use the project to support the continued development of software tools, principally an &lt;a href=&#34;https://shaughnessyar.github.io/driftR/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;R&lt;/code&gt; package&lt;/a&gt;, that implement a series of equations and techniques for working with water quality monitoring data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

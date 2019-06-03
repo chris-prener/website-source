@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecology on Christopher Prener</title>
+    <link>/tags/ecology/</link>
+    <description>Recent content in Ecology on Christopher Prener</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017-2018 Christopher G. Prener</copyright>
+    <lastBuildDate>Tue, 08 May 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/ecology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>driftR</title>
+      <link>/project/driftr/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/driftr/</guid>
+      <description>The driftR project originated out of a series of conversations between Chris and an undergraduate student in his geoscience course, Andrew Shaughnessy, about reproducibility and the use of software to improve research processes. Andrew became specifically interested in improving the reproducibility of lab processes used in Dr. Elizabeth Hasenmueller&amp;rsquo;s Hydrology and Geochemsitry Lab at Saint Louis University, and the driftR project was born. Andrew, Liz, and Chris use the project to support the continued development of software tools, principally an R package, that implement a series of equations and techniques for working with water quality monitoring data.</description>
+    </item>
+    
+  </channel>
+</rss>

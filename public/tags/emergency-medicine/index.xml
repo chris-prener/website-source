@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emergency-medicine on Christopher Prener</title>
+    <link>/tags/emergency-medicine/</link>
+    <description>Recent content in Emergency-medicine on Christopher Prener</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017-2018 Christopher G. Prener</copyright>
+    <lastBuildDate>Fri, 04 May 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/emergency-medicine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Urban EMS Work</title>
+      <link>/project/ems/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/ems/</guid>
+      <description>The Emergency Medical Services (EMS) project is Chris&amp;rsquo;s original graduate research project. Begun in 2009 as a pilot study and expanded between 2011 and 2015 as Chris&amp;rsquo;s dissertation research, the project has aimed to understand the constraints on urban EMS work. In particular, Chris&amp;rsquo;s dissertation used a mix of ethnographic, qualitative, quantiative, and spatial techniques to understand how EMS work simultaneously shapes and is shaped by the neighborhoods where it occurs.</description>
+    </item>
+    
+  </channel>
+</rss>

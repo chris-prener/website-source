@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Christopher Prener</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Christopher Prener</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017-2018 Christopher G. Prener</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Software</title>
+      <link>/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>My R package areal, which implements a reproducible workflow for areal weighted interpolation, has been released on CRAN. This is a joint effort with SLU senior Charlie Revord. </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography Chris is an urban and medical sociologist with an interest in mixed methods research designs that incorporate spatial data. He is currently revising his dissertation into a book manuscript entitled Medicine at the Margins. The book examines the effect of neighborhood context and conditions on emergency medical services work, particularly with patients who have mental illnesses or substance use disorders. With his research team, Chris is also working on a large ecometric project aimed at understanding disorder and crime in St.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/home/software/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/software/</guid>
+      <description>In addition to the R packages being developed as part of the SLU openGIS project, which are all focused on St. Louis data or on working with spatial data more generally, Chris also maintains a number of stand-alone R packages:
+ driftR tidy tools that correct continuous water-quality monitoring data for incremental drift Project  Website  GitHub  CRAN 
+ prener An &amp;ldquo;internal&amp;rdquo; R package (not destined for CRAN) that houses functions used in my research and teaching Website  GitHub</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>/home/lab/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/lab/</guid>
+      <description>Current Lab Members  Abby Curran (Sociology &amp;lsquo;19) Ecometric St. Louis 
+ Cree Foeller (Biomedical Engineering &amp;lsquo;19) Ecometric St. Louis  openGIS 
+ Branson Fox (Sociology &amp;amp; GIS &amp;lsquo;20) Ecometric St. Louis  openGIS 
+ Charlie Revord (Sociology &amp;amp; GIS &amp;lsquo;19) openGIS 
+Lab Alumni  Taylor Braswell (Sociology MA &amp;lsquo;17) Ph.D. student in Sociology at Northeastern University Ecometric St. Louis 
+ Kyle Miller (Sociology &amp;amp; GIS &amp;lsquo;17) Masters in Urban Planning Student at Harvard University; former Coro Fellow in Pittsburgh, PA  Ecometric St.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description> Current Fall 2018 Courses  SOC 1120 - Introduction to Sociology: Diversity &amp;amp; Health SOC 4015 &amp;amp; 5050 - Quantitative Analysis: Applied Inferential Statistics SOC 4800 - Supervised Research Activity  Past and Future Courses  SOC 2180 - Cities and Space: St. Louis (under development) SOC 3220 - Urban Sociology &amp;amp; The Wire (on hiatus) SOC 4650 &amp;amp; 5650 - Introduction to Geographic Information Science (planned for Spring 2019)  Other Teaching Activities  Curriculum development for Data Carpentry&amp;rsquo;s social science and geospatial lessons Founding co-organizer of the Saint Louis University Data Science Seminar MCAT review course for Sociology and Psychology each spring Seminar on presenting information and data each semester  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
