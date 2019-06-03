@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2018 Christopher G. Prener</copyright>
-    <lastBuildDate>Wed, 23 May 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jun 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/urban/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>openGIS</title>
+      <link>/project/opengis/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/opengis/</guid>
+      <description>The SLU Data Science Seminar, which Chris is a founding co-organizer of, is the host of Chris&amp;rsquo;s openGIS project. The project is a collaborative effort with SLU students to curate and host GIS data about the St. Louis area in an accessible manner. We also maintain several R packages that contain tools for working with spatial data that orginiates locally as well as more general R tools for working with spatial data.</description>
+    </item>
     
     <item>
       <title>SOC 1120 - Introduction to Sociology: Diversity &amp; Health</title>
@@ -49,15 +58,6 @@ In the past, I have taught an upper-level undergraduate seminar focused on the m
       
       <guid>/project/ecometrics/</guid>
       <description>The Ecometric St. Louis project aims to document the effects of widespread crime, disinevestment, poverty, and segregation in St. Louis. I am specifically interested in measuring the relative &amp;ldquo;health&amp;rdquo; of neighborhoods in St. Louis by using metrics like the number of arson fires, violent crime rates, and vacant buildings. Another metric is the density of street closures in specific neighborhoods, which have been used since the 1970s to limit traffic into and out of particular neighborhoods on the city&amp;rsquo;s north side and across its midsection.</description>
-    </item>
-    
-    <item>
-      <title>openGIS</title>
-      <link>/project/opengis/</link>
-      <pubDate>Sat, 05 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/project/opengis/</guid>
-      <description>The SLU Data Science Seminar, which Chris is a founding co-organizer of, is the host of Chris&amp;rsquo;s openGIS project. The project is a collaborative effort with SLU students to curate and host GIS data about the St. Louis area in an accessible manner. We also maintain several R packages that contain tools for working with spatial data that orginiates locally as well as more general R tools for working with spatial data.</description>
     </item>
     
     <item>

@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2018-05-05T00:00:00
+date = 2018-06-19T00:00:00
 
 # Project title.
 title = "openGIS"
@@ -37,30 +37,33 @@ The openGIS project is focused on providing easy access to spatial data about th
 
 ### Released R Packages
 
-<i class="fa fa-cog" aria-hidden="true"></i>  `areal`
+<i class="fas fa-archive"></i>  `areal`
 <br> <span class="talk-metadata">workflow for areal weighted interpolation in `R`</span>
 <br> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://slu-openGIS.github.io/areal/" target = "_blank"> Website </a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/slu-openGIS/areal" target = "_blank"> GitHub </a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cran.r-project.org/package=areal" target = "_blank"> CRAN </a>
 
-<i class="fa fa-cog" aria-hidden="true"></i>  `qualmap`
+<i class="fas fa-archive"></i>  `biscale`
+<br> <span class="talk-metadata">tools and palettes for bivariate thematic mapping</span>
+<br> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://slu-openGIS.github.io/biscale/" target = "_blank"> Website </a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/slu-openGIS/biscale" target = "_blank"> GitHub </a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cran.r-project.org/package=biscale" target = "_blank"> CRAN </a>
+
+<i class="fas fa-archive"></i>  `compstatr`
+<br> <span class="talk-metadata">tools for St. Louis crime data</span>
+<br> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://slu-openGIS.github.io/compstatr/" target = "_blank"> Website </a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/slu-openGIS/compstatr" target = "_blank"> GitHub </a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cran.r-project.org/package=compstatr" target = "_blank"> CRAN </a>
+
+<i class="fas fa-archive"></i>  `qualmap`
 <br> <span class="talk-metadata">tidy, opinionated approach to digitizing semi-structured qualitative GIS data</span>
 <br> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://slu-openGIS.github.io/qualmap/" target = "_blank"> Website </a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/slu-openGIS/qualmap" target = "_blank"> GitHub </a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cran.r-project.org/package=qualmap" target = "_blank"> CRAN </a>
 
-### Internal R Packages
-
-<i class="fa fa-cog" aria-hidden="true"></i>  `brownLTDB`
-<br> <span class="talk-metadata">quick access to tidy versions of the [Brown Longitudinal Census Database](https://s4.ad.brown.edu/projects/diversity/researcher/ltdb.htm) data releases; not public</span>
-
-<i class="fa fa-cog" aria-hidden="true"></i>  `cityHealth`
-<br> <span class="talk-metadata">quick access to tidy versions of the CDC's [500 Cities Project](https://www.cdc.gov/500cities/) data releases</span>
-<br> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/slu-openGIS/cityHealth" target = "_blank"> GitHub </a>
+<i class="fas fa-archive"></i>  `stlcsb`
+<br> <span class="talk-metadata">tidy manipulation of CSB data for St. Louis</span>
+<br> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://slu-openGIS.github.io/stlcsb/" target = "_blank"> Website </a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/slu-openGIS/stlcsb" target = "_blank"> GitHub </a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://cran.r-project.org/package=stlcsb" target = "_blank"> CRAN </a>
 
 ### R Packages in Progress
 
-<i class="fa fa-cog" aria-hidden="true"></i>  `compstatr`
-<br> <span class="talk-metadata">tools for validating and managing St. Louis Metropolitan Police Department data</span>
-<br> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/slu-openGIS/compstatr" target = "_blank"> GitHub </a>
+<i class="fas fa-archive"></i>  `censusxy`
+<br> <span class="talk-metadata">batch geocoding via the U.S. Census Bureau's API</span>
+<br> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/slu-openGIS/censusxy" target = "_blank"> GitHub </a>
 
-<i class="fa fa-cog" aria-hidden="true"></i>  `gateway`
+<i class="fas fa-archive"></i>  `gateway`
 <br> <span class="talk-metadata">tools for working with georeferenced data for the city of St. Louis</span>
 <br> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/slu-openGIS/gateway" target = "_blank"> GitHub </a>
 
@@ -68,10 +71,10 @@ The openGIS project is focused on providing easy access to spatial data about th
 <br> <span class="talk-metadata">tools for working with georeferenced data for the city of St. Louis</span>
 <br> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/chris-prener/postmastr" target = "_blank"> GitHub </a>
 
-<i class="fa fa-cog" aria-hidden="true"></i>  `stlcsb`
-<br> <span class="talk-metadata">tools for validating and managing data from the City of St. Louis's Citizens Service Bureau</span>
-<br> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/slu-openGIS/stlcsb" target = "_blank"> GitHub </a>
+<i class="fas fa-archive"></i>  `pysalr`
+<br> <span class="talk-metadata">bridge for model output from the Python pysal Library to R</span>
+<br> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/slu-openGIS/pysalr" target = "_blank"> GitHub </a>
 
-<i class="fa fa-cog" aria-hidden="true"></i>  `stldata`
-<br> <span class="talk-metadata">data for teaching GIS, spatial statistics, and data science that I use in my [geoscience course](/courses/introgis/)</span>
-<br> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/slu-openGIS/stldata" target = "_blank"> GitHub </a>
+<i class="fas fa-archive"></i>  `tidyseg`
+<br> <span class="talk-metadata">tidy approaches to measuring segregation</span>
+<br> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/slu-openGIS/tidyseg" target = "_blank"> GitHub </a>

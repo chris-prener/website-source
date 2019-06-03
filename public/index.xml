@@ -138,6 +138,60 @@
     </item>
     
     <item>
+      <title>openGIS</title>
+      <link>/project/opengis/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/opengis/</guid>
+      <description>
+
+&lt;p&gt;The &lt;a href=&#34;https://slu-dss.github.io&#34; target=&#34;_blank&#34;&gt;SLU Data Science Seminar&lt;/a&gt;, which Chris is a founding co-organizer of, is the host of Chris&amp;rsquo;s &lt;a href=&#34;https://slu-openGIS.github.io&#34; target=&#34;_blank&#34;&gt;openGIS project&lt;/a&gt;. The project is a collaborative effort with SLU students to curate and host GIS data about the St. Louis area in an accessible manner. We also maintain several &lt;code&gt;R&lt;/code&gt; packages that contain tools for working with spatial data that orginiates locally as well as more general &lt;code&gt;R&lt;/code&gt; tools for working with spatial data.&lt;/p&gt;
+
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+
+&lt;p&gt;The openGIS project is focused on providing easy access to spatial data about the City of St. Louis. We are currently working on producing demographic estimates for 2010 and 2016 at a variety of local extents, including precincts, wards, and neighborhoods, and have released data on other local social phenomena as well.&lt;/p&gt;
+
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+
+&lt;h3 id=&#34;released-r-packages&#34;&gt;Released R Packages&lt;/h3&gt;
+
+&lt;p&gt;&lt;i class=&#34;fas fa-archive&#34;&gt;&lt;/i&gt;  &lt;code&gt;areal&lt;/code&gt;
+&lt;br&gt; &lt;span class=&#34;talk-metadata&#34;&gt;workflow for areal weighted interpolation in &lt;code&gt;R&lt;/code&gt;&lt;/span&gt;
+&lt;br&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://slu-openGIS.github.io/areal/&#34; target = &#34;_blank&#34;&gt; Website &lt;/a&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/slu-openGIS/areal&#34; target = &#34;_blank&#34;&gt; GitHub &lt;/a&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://cran.r-project.org/package=areal&#34; target = &#34;_blank&#34;&gt; CRAN &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fas fa-archive&#34;&gt;&lt;/i&gt;  &lt;code&gt;biscale&lt;/code&gt;
+&lt;br&gt; &lt;span class=&#34;talk-metadata&#34;&gt;tools and palettes for bivariate thematic mapping&lt;/span&gt;
+&lt;br&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://slu-openGIS.github.io/biscale/&#34; target = &#34;_blank&#34;&gt; Website &lt;/a&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/slu-openGIS/biscale&#34; target = &#34;_blank&#34;&gt; GitHub &lt;/a&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://cran.r-project.org/package=biscale&#34; target = &#34;_blank&#34;&gt; CRAN &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fas fa-archive&#34;&gt;&lt;/i&gt;  &lt;code&gt;compstatr&lt;/code&gt;
+&lt;br&gt; &lt;span class=&#34;talk-metadata&#34;&gt;tools for St. Louis crime data&lt;/span&gt;
+&lt;br&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://slu-openGIS.github.io/compstatr/&#34; target = &#34;_blank&#34;&gt; Website &lt;/a&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/slu-openGIS/compstatr&#34; target = &#34;_blank&#34;&gt; GitHub &lt;/a&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://cran.r-project.org/package=compstatr&#34; target = &#34;_blank&#34;&gt; CRAN &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fas fa-archive&#34;&gt;&lt;/i&gt;  &lt;code&gt;qualmap&lt;/code&gt;
+&lt;br&gt; &lt;span class=&#34;talk-metadata&#34;&gt;tidy, opinionated approach to digitizing semi-structured qualitative GIS data&lt;/span&gt;
+&lt;br&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://slu-openGIS.github.io/qualmap/&#34; target = &#34;_blank&#34;&gt; Website &lt;/a&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/slu-openGIS/qualmap&#34; target = &#34;_blank&#34;&gt; GitHub &lt;/a&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://cran.r-project.org/package=qualmap&#34; target = &#34;_blank&#34;&gt; CRAN &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fas fa-archive&#34;&gt;&lt;/i&gt;  &lt;code&gt;stlcsb&lt;/code&gt;
+&lt;br&gt; &lt;span class=&#34;talk-metadata&#34;&gt;tidy manipulation of CSB data for St. Louis&lt;/span&gt;
+&lt;br&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://slu-openGIS.github.io/stlcsb/&#34; target = &#34;_blank&#34;&gt; Website &lt;/a&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/slu-openGIS/stlcsb&#34; target = &#34;_blank&#34;&gt; GitHub &lt;/a&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://cran.r-project.org/package=stlcsb&#34; target = &#34;_blank&#34;&gt; CRAN &lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;r-packages-in-progress&#34;&gt;R Packages in Progress&lt;/h3&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-cog&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;  &lt;code&gt;censusxy&lt;/code&gt;
+&lt;br&gt; &lt;span class=&#34;talk-metadata&#34;&gt;batch geocoding via the U.S. Census Bureau&amp;rsquo;s API&lt;/span&gt;
+&lt;br&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/slu-openGIS/censusxy&#34; target = &#34;_blank&#34;&gt; GitHub &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-cog&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;  &lt;code&gt;gateway&lt;/code&gt;
+&lt;br&gt; &lt;span class=&#34;talk-metadata&#34;&gt;tools for working with georeferenced data for the city of St. Louis&lt;/span&gt;
+&lt;br&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/slu-openGIS/gateway&#34; target = &#34;_blank&#34;&gt; GitHub &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-cog&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;  &lt;code&gt;postmastr&lt;/code&gt;
+&lt;br&gt; &lt;span class=&#34;talk-metadata&#34;&gt;tools for working with georeferenced data for the city of St. Louis&lt;/span&gt;
+&lt;br&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/chris-prener/postmastr&#34; target = &#34;_blank&#34;&gt; GitHub &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Getting the Most out of Advising</title>
       <link>/resources/advising_overview/</link>
       <pubDate>Wed, 30 May 2018 12:00:00 -0500</pubDate>
@@ -381,24 +435,6 @@
 &lt;p&gt;The course is built primarily around a number of data sets I&amp;rsquo;ve put together for teaching (released as the &lt;code&gt;R&lt;/code&gt; package &lt;a href=&#34;https://chris-prener.github.io/testDriveR/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;testDriveR&lt;/code&gt;&lt;/a&gt;) as well as the Current Population Survey and the General Social Survey. While the examples may be specific to the social sciences, the theories and skills that are covered are broadly applicable across academic disciplines. The course&amp;rsquo;s final project requires students to conduct a multivariate statistical analysis using the 2012 General Social Survey (for undergraduates) or a data set selected by each student (for graduate students).&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc5050.github.io&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Website &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc5050.github.io/syllabus/&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Syllabus &lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SOC 4650 &amp; 5650 - Introduction to Geographic Information Science</title>
-      <link>/courses/introgis/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/courses/introgis/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Next Offered Spring 2020&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I teach Intro to GIS at both the undergraudate and graduate levels in a combined classroom, meaning that the course has a range of students from freshmen all the way to Ph.D. levels. Like my statistics course, Intro to GIS is built around a number of common data science tools and is designed to give students a solid grounding in modern scientific computing regardless of their background. &lt;a href=&#34;https://www.arcgis.com&#34; target=&#34;_blank&#34;&gt;ArcGIS&lt;/a&gt; is the primary spatial software package used for this course. We also use &lt;code&gt;R&lt;/code&gt; for data cleaning and manipulation as well as initial mapping.&lt;/p&gt;
-
-&lt;p&gt;Techniques introduced include data cleaning and management, map production and cartography, and the manipulation of both tabular and spatial data. The impacts of GIS on public policy, and the effects of public policy on GIS, are also discussed.&lt;/p&gt;
-
-&lt;p&gt;The course incorporates a wide variety of social, economic, health, urban, meteorological, and environmental data. We map these data at a variety of extents, from the City of St. Louis to the St. Louis Metropolitan region, Missouri, all United States counties, and all U.S. states. The course&amp;rsquo;s final project requires students to map a subset of a large (~740,000 observation) dataset of &lt;a href=&#34;https://www.stlouis-mo.gov/government/departments/public-safety/neighborhood-stabilization-office/citizens-service-bureau/&#34; target=&#34;_blank&#34;&gt;St. Louis City Citizens&amp;rsquo; Service Bureau&lt;/a&gt; requests.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc5650.github.io&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Website &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc5650.github.io/syllabus/&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Syllabus &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
