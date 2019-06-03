@@ -1,37 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>spatial statistics on Christopher Prener</title>
+    <title>spatial-statistics on Christopher Prener</title>
     <link>/tags/spatial-statistics/</link>
-    <description>Recent content in spatial statistics on Christopher Prener</description>
+    <description>Recent content in spatial-statistics on Christopher Prener</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2018 Christopher G. Prener</copyright>
-    <lastBuildDate>Sun, 19 May 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 07 May 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/spatial-statistics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>areal: An R package for areal weighted interpolation</title>
-      <link>/publication/areal/</link>
-      <pubDate>Sun, 19 May 2019 00:00:00 -0500</pubDate>
+      <title>Detrimental Influences</title>
+      <link>/project/redlining/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
       
-      <guid>/publication/areal/</guid>
-      <description></description>
+      <guid>/project/redlining/</guid>
+      <description>This is a brand new project that I am planning to begin work on once my book manuscript Medicine at the Margins is completed. My plan is to use several new sources of spatial data to explore the intersection of historic redlining, contemporary segregation, and population health outcomes.</description>
     </item>
     
     <item>
-      <title>St. Louis&#39;s &#39;Urban Prairie&#39;: Vacant Land and the Potential for Revitalization</title>
-      <link>/publication/urban-prairie/</link>
-      <pubDate>Thu, 17 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/urban-prairie/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
+      <title>Ecometric St. Louis</title>
+      <link>/project/ecometrics/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/ecometrics/</guid>
       <description>The Ecometric St. Louis project aims to document the effects of widespread crime, disinevestment, poverty, and segregation in St. Louis. I am specifically interested in measuring the relative &amp;ldquo;health&amp;rdquo; of neighborhoods in St. Louis by using metrics like the number of arson fires, violent crime rates, and vacant buildings. Another metric is the density of street closures in specific neighborhoods, which have been used since the 1970s to limit traffic into and out of particular neighborhoods on the city&amp;rsquo;s north side and across its midsection.</description>

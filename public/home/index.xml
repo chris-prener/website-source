@@ -101,7 +101,7 @@
       <guid>/home/software/</guid>
       <description>In addition to the R packages being developed as part of the SLU openGIS project, which are all focused on St. Louis data or on working with spatial data more generally, Chris also maintains a number of stand-alone R packages:
  driftR tidy tools that correct continuous water-quality monitoring data for incremental drift Project  Website  GitHub  CRAN 
- prener An &amp;ldquo;internal&amp;rdquo; R package (not destined for CRAN) that houses functions used in my research and teaching Website  GitHub</description>
+ testDriveR data for teaching statistics and data science that I use my statistics course Website  GitHub  CRAN</description>
     </item>
     
     <item>
