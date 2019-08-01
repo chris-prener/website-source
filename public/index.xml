@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>An R Package for Correcting Continuous Water Quality Monitoring Data for Drift</title>
+      <link>/publication/driftr_paper/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/driftr_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>areal: An R package for areal weighted interpolation</title>
       <link>/publication/areal/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 -0500</pubDate>
@@ -177,17 +186,25 @@
 
 &lt;h3 id=&#34;r-packages-in-progress&#34;&gt;R Packages in Progress&lt;/h3&gt;
 
-&lt;p&gt;&lt;i class=&#34;fa fa-cog&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;  &lt;code&gt;censusxy&lt;/code&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-archive&#34;&gt;&lt;/i&gt;  &lt;code&gt;censusxy&lt;/code&gt;
 &lt;br&gt; &lt;span class=&#34;talk-metadata&#34;&gt;batch geocoding via the U.S. Census Bureau&amp;rsquo;s API&lt;/span&gt;
 &lt;br&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/slu-openGIS/censusxy&#34; target = &#34;_blank&#34;&gt; GitHub &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#34;fa fa-cog&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;  &lt;code&gt;gateway&lt;/code&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-archive&#34;&gt;&lt;/i&gt;  &lt;code&gt;gateway&lt;/code&gt;
 &lt;br&gt; &lt;span class=&#34;talk-metadata&#34;&gt;tools for working with georeferenced data for the city of St. Louis&lt;/span&gt;
 &lt;br&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/slu-openGIS/gateway&#34; target = &#34;_blank&#34;&gt; GitHub &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&#34;fa fa-cog&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;  &lt;code&gt;postmastr&lt;/code&gt;
 &lt;br&gt; &lt;span class=&#34;talk-metadata&#34;&gt;tools for working with georeferenced data for the city of St. Louis&lt;/span&gt;
 &lt;br&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/chris-prener/postmastr&#34; target = &#34;_blank&#34;&gt; GitHub &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fas fa-archive&#34;&gt;&lt;/i&gt;  &lt;code&gt;pysalr&lt;/code&gt;
+&lt;br&gt; &lt;span class=&#34;talk-metadata&#34;&gt;bridge for model output from the Python pysal Library to R&lt;/span&gt;
+&lt;br&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/slu-openGIS/pysalr&#34; target = &#34;_blank&#34;&gt; GitHub &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fas fa-archive&#34;&gt;&lt;/i&gt;  &lt;code&gt;tidyseg&lt;/code&gt;
+&lt;br&gt; &lt;span class=&#34;talk-metadata&#34;&gt;tidy approaches to measuring segregation&lt;/span&gt;
+&lt;br&gt; &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/slu-openGIS/tidyseg&#34; target = &#34;_blank&#34;&gt; GitHub &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -417,24 +434,6 @@
 &lt;p&gt;In the past, I have taught an upper-level undergraduate seminar focused on the modern American city. Using a unique television series about Baltimore, Maryland (&lt;em&gt;The Wire&lt;/em&gt;, which aired from 2002 until 2008), this course investigates the structural causes of urban social problems, trace their development, and explore their consequences. We discuss the interrelations between different social issues, the similarities between the experiences of Baltimore and St. Louis, and the prospects for urban social change. We focus on the first three seasons of The Wire and what they reveal about aspects of racial and class inequality that have been the concern of urban sociologists for decades. The course also has an &lt;strong&gt;honors section&lt;/strong&gt; each semester.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;/files/syllabi/soc3220-syllabus.pdf&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-file-text&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Syllabus &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;/files/syllabi/soc3220-readingList.pdf&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-file-text&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Reading List &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;/files/syllabi/soc3220-honorsSupplement.pdf&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-file-text&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Honors Supplement &lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SOC 4015 &amp; 5050 - Quantitative Analysis: Applied Inferential Statistics</title>
-      <link>/courses/quantanalysis/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/courses/quantanalysis/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Next Offered Fall 2018&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I teach Quantitative Analysis at both the undergraduate and graduate levels. This course provides an introduction to applied statistical analysis with an emphasis placed on statistical techniques that are most common in the sociological literature. The statistical techniques introduced include measures of central tendency and dispersion as well as measures of bivariate association. Multivariate statistical analyses are also introduced.&lt;/p&gt;
-
-&lt;p&gt;Like my GIS course, Quantitative Analysis is built around a number of common data science tools and is designed to give students a solid grounding in modern scientific computing regardless of their background. &lt;a href=&#34;https://en.wikipedia.org/wiki/R_(programming_language)&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;R&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.rstudio.com&#34; target=&#34;_blank&#34;&gt;RStudio&lt;/a&gt; are the primary statistical tools used for this course.&lt;/p&gt;
-
-&lt;p&gt;The course is built primarily around a number of data sets I&amp;rsquo;ve put together for teaching (released as the &lt;code&gt;R&lt;/code&gt; package &lt;a href=&#34;https://chris-prener.github.io/testDriveR/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;testDriveR&lt;/code&gt;&lt;/a&gt;) as well as the Current Population Survey and the General Social Survey. While the examples may be specific to the social sciences, the theories and skills that are covered are broadly applicable across academic disciplines. The course&amp;rsquo;s final project requires students to conduct a multivariate statistical analysis using the 2012 General Social Survey (for undergraduates) or a data set selected by each student (for graduate students).&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc5050.github.io&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Website &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc5050.github.io/syllabus/&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Syllabus &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -15,12 +15,10 @@
   
     
   
-  <meta name="description" content="Next Offered Fall 2018
-I teach Quantitative Analysis at both the undergraduate and graduate levels. This course provides an introduction to applied statistical analysis with an emphasis placed on statistical techniques that are most common in the sociological literature. The statistical techniques introduced include measures of central tendency and dispersion as well as measures of bivariate association. Multivariate statistical analyses are also introduced.
-Like my GIS course, Quantitative Analysis is built around a number of common data science tools and is designed to give students a solid grounding in modern scientific computing regardless of their background.">
+  <meta name="description" content="Continuous water quality monitoring instruments are used to understand the chemical and physical behaviors of aquatic environments over time. However, the data generated from these instruments are susceptible to inaccuracies due to drift that can occur between site visits. While there are several software packages available to correct drift in water quality data, these packages are often proprietary, expensive, and/or do not offer the user control over the data corrections. This paper describes driftR, an R package that corrects drift in water quality data. driftR implements either one- or two-point variable data corrections based on the number of standards used to calibrate the sensor of interest, then linearly interpolates the correction over the period of interest. This program gives control to users to correct each parameter in a way that is ideal for their unique stu- dies and offers a free, reproducible method for drift correction.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/courses/quantanalysis/">
+  <link rel="alternate" hreflang="en-us" href="/publication/driftr_paper/">
 
   
 
@@ -102,7 +100,7 @@ Like my GIS course, Quantitative Analysis is built around a number of common dat
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/courses/quantanalysis/">
+  <link rel="canonical" href="/publication/driftr_paper/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -110,27 +108,25 @@ Like my GIS course, Quantitative Analysis is built around a number of common dat
   <meta property="twitter:creator" content="@chris-prener">
   
   <meta property="og:site_name" content="Christopher Prener">
-  <meta property="og:url" content="/courses/quantanalysis/">
-  <meta property="og:title" content="SOC 4015 &amp; 5050 - Quantitative Analysis: Applied Inferential Statistics | Christopher Prener">
-  <meta property="og:description" content="Next Offered Fall 2018
-I teach Quantitative Analysis at both the undergraduate and graduate levels. This course provides an introduction to applied statistical analysis with an emphasis placed on statistical techniques that are most common in the sociological literature. The statistical techniques introduced include measures of central tendency and dispersion as well as measures of bivariate association. Multivariate statistical analyses are also introduced.
-Like my GIS course, Quantitative Analysis is built around a number of common data science tools and is designed to give students a solid grounding in modern scientific computing regardless of their background.">
+  <meta property="og:url" content="/publication/driftr_paper/">
+  <meta property="og:title" content="An R Package for Correcting Continuous Water Quality Monitoring Data for Drift | Christopher Prener">
+  <meta property="og:description" content="Continuous water quality monitoring instruments are used to understand the chemical and physical behaviors of aquatic environments over time. However, the data generated from these instruments are susceptible to inaccuracies due to drift that can occur between site visits. While there are several software packages available to correct drift in water quality data, these packages are often proprietary, expensive, and/or do not offer the user control over the data corrections. This paper describes driftR, an R package that corrects drift in water quality data. driftR implements either one- or two-point variable data corrections based on the number of standards used to calibrate the sensor of interest, then linearly interpolates the correction over the period of interest. This program gives control to users to correct each parameter in a way that is ideal for their unique stu- dies and offers a free, reproducible method for drift correction.">
   
   
     
-  <meta property="og:image" content="/img/headers/trend.jpg">
+  <meta property="og:image" content="/img/headers/stream-wide.jpg">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-05-23T00:00:00-05:00">
+  <meta property="article:published_time" content="2019-06-18T00:00:00-05:00">
   
-  <meta property="article:modified_time" content="2019-06-03T00:00:00-05:00">
-  
-
+  <meta property="article:modified_time" content="2019-06-18T00:00:00-05:00">
   
 
   
 
-  <title>SOC 4015 &amp; 5050 - Quantitative Analysis: Applied Inferential Statistics | Christopher Prener</title>
+  
+
+  <title>An R Package for Correcting Continuous Water Quality Monitoring Data for Drift | Christopher Prener</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -357,8 +353,7 @@ Like my GIS course, Quantitative Analysis is built around a number of common dat
   </div>
 </nav>
 
-
-<article class="article" itemscope itemtype="http://schema.org/Article">
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
@@ -373,10 +368,10 @@ Like my GIS course, Quantitative Analysis is built around a number of common dat
 <div class="article-header">
   
   
-  <img src="/img/headers/trend.jpg" class="article-banner" itemprop="image" alt="">
+  <img src="/img/headers/stream-wide.jpg" class="article-banner" itemprop="image" alt="">
   
 
-  <span class="article-header-caption">Image credit: Chris Liverani on <a href="https://unsplash.com/photos/dBI_My696Rk" target="_blank">Unsplash</a></span>
+  <span class="article-header-caption">Image credit: Caleb George on <a href="https://unsplash.com/photos/zZzKLzKP24o" target="_blank">Unsplash</a></span>
 </div>
 
 
@@ -388,7 +383,7 @@ Like my GIS course, Quantitative Analysis is built around a number of common dat
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">SOC 4015 &amp; 5050 - Quantitative Analysis: Applied Inferential Statistics</h1>
+  <h1 itemprop="name">An R Package for Correcting Continuous Water Quality Monitoring Data for Drift</h1>
 
   
 
@@ -399,18 +394,26 @@ Like my GIS course, Quantitative Analysis is built around a number of common dat
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Christopher Prener">
-  </span>
+  
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">A Shaughnessy</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">CG Prener</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">L Hasenmuller</span>
+    </span>
+    
+  </div>
   
 
   <span class="article-date">
     
-        Last updated on
-    
-    <meta content="2018-05-23 00:00:00 -0500 CDT" itemprop="datePublished">
-    <time datetime="2019-06-03 00:00:00 -0500 CDT" itemprop="dateModified">
-      Jun 3, 2019
+    <meta content="2019-06-18 00:00:00 -0500 CDT" itemprop="datePublished">
+    <time datetime="2019-06-18 00:00:00 -0500 CDT" itemprop="dateModified">
+      Jun 18, 2019
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -430,35 +433,35 @@ Like my GIS course, Quantitative Analysis is built around a number of common dat
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=SOC%204015%20%26%205050%20-%20Quantitative%20Analysis%3a%20Applied%20Inferential%20Statistics&amp;url=%2fcourses%2fquantanalysis%2f"
+         href="https://twitter.com/intent/tweet?text=An%20R%20Package%20for%20Correcting%20Continuous%20Water%20Quality%20Monitoring%20Data%20for%20Drift&amp;url=%2fpublication%2fdriftr_paper%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fcourses%2fquantanalysis%2f"
+         href="https://www.facebook.com/sharer.php?u=%2fpublication%2fdriftr_paper%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fcourses%2fquantanalysis%2f&amp;title=SOC%204015%20%26%205050%20-%20Quantitative%20Analysis%3a%20Applied%20Inferential%20Statistics"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2fdriftr_paper%2f&amp;title=An%20R%20Package%20for%20Correcting%20Continuous%20Water%20Quality%20Monitoring%20Data%20for%20Drift"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fcourses%2fquantanalysis%2f&amp;title=SOC%204015%20%26%205050%20-%20Quantitative%20Analysis%3a%20Applied%20Inferential%20Statistics"
+         href="http://service.weibo.com/share/share.php?url=%2fpublication%2fdriftr_paper%2f&amp;title=An%20R%20Package%20for%20Correcting%20Continuous%20Water%20Quality%20Monitoring%20Data%20for%20Drift"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=SOC%204015%20%26%205050%20-%20Quantitative%20Analysis%3a%20Applied%20Inferential%20Statistics&amp;body=%2fcourses%2fquantanalysis%2f">
+         href="mailto:?subject=An%20R%20Package%20for%20Correcting%20Continuous%20Water%20Quality%20Monitoring%20Data%20for%20Drift&amp;body=%2fpublication%2fdriftr_paper%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -485,6 +488,66 @@ Like my GIS course, Quantitative Analysis is built around a number of common dat
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://link.springer.com/article/10.1007/s10661-019-7586-x" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/driftr/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://shaughnessyar.github.io/driftR/" target="_blank" rel="noopener">
+    
+    Website
+  </a>
+
+
+</div>
+
 
   
 </div>
@@ -493,27 +556,75 @@ Like my GIS course, Quantitative Analysis is built around a number of common dat
 
   <div class="article-container">
 
-    <div class="article-style" itemprop="articleBody">
-      <p><strong>Next Offered Fall 2018</strong></p>
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Continuous water quality monitoring instruments are used to understand the chemical and physical behaviors of aquatic environments over time. However, the data generated from these instruments are susceptible to inaccuracies due to drift that can occur between site visits. While there are several software packages available to correct drift in water quality data, these packages are often proprietary, expensive, and/or do not offer the user control over the data corrections. This paper describes driftR, an R package that corrects drift in water quality data. driftR implements either one- or two-point variable data corrections based on the number of standards used to calibrate the sensor of interest, then linearly interpolates the correction over the period of interest. This program gives control to users to correct each parameter in a way that is ideal for their unique stu- dies and offers a free, reproducible method for drift correction.</p>
+    
 
-<p>I teach Quantitative Analysis at both the undergraduate and graduate levels. This course provides an introduction to applied statistical analysis with an emphasis placed on statistical techniques that are most common in the sociological literature. The statistical techniques introduced include measures of central tendency and dispersion as well as measures of bivariate association. Multivariate statistical analyses are also introduced.</p>
-
-<p>Like my GIS course, Quantitative Analysis is built around a number of common data science tools and is designed to give students a solid grounding in modern scientific computing regardless of their background. <a href="https://en.wikipedia.org/wiki/R_(programming_language)" target="_blank"><code>R</code></a> and <a href="https://www.rstudio.com" target="_blank">RStudio</a> are the primary statistical tools used for this course.</p>
-
-<p>The course is built primarily around a number of data sets I&rsquo;ve put together for teaching (released as the <code>R</code> package <a href="https://chris-prener.github.io/testDriveR/" target="_blank"><code>testDriveR</code></a>) as well as the Current Population Survey and the General Social Survey. While the examples may be specific to the social sciences, the theories and skills that are covered are broadly applicable across academic disciplines. The course&rsquo;s final project requires students to conduct a multivariate statistical analysis using the 2012 General Social Survey (for undergraduates) or a data set selected by each student (for graduate students).</p>
-
-<p><a class="btn btn-primary btn-outline" href="https://slu-soc5050.github.io" target="_blank"> <i class="fa fa-share" aria-hidden="true"></i> Course Website </a> <a class="btn btn-primary btn-outline" href="https://slu-soc5050.github.io/syllabus/" target="_blank"> <i class="fa fa-share" aria-hidden="true"></i> Course Syllabus </a></p>
-
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In <em>Enviornmental Monitoring &amp; Assessment</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            June, 2019
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/statistics/">statistics</a>
+  <a class="badge badge-light" href="/tags/ecology/">ecology</a>
   
-  <a class="badge badge-light" href="/tags/teaching/">teaching</a>
+  <a class="badge badge-light" href="/tags/r/">R</a>
+  
+  <a class="badge badge-light" href="/tags/open-science/">open-science</a>
+  
+  <a class="badge badge-light" href="/tags/software/">software</a>
   
 </div>
 
@@ -523,144 +634,18 @@ Like my GIS course, Quantitative Analysis is built around a number of common dat
 
 
 
-
-
-
-<div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
-  <img class="portrait mr-3" src="/img/headShot.png" itemprop="image" alt="Avatar">
-  
-  <div class="media-body">
-    <h5 class="card-title" itemprop="name"><a href="/">Christopher Prener</a></h5>
-    <h6 class="card-subtitle">Assistant Professor of Sociology</h6>
-    
-    <ul class="network-icon" aria-hidden="true">
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-      <li>
-        <a itemprop="sameAs" href="mailto:chris.prener@slu.edu" >
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="//twitter.com/chrisprener" >
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="https://scholar.google.com/citations?user=0PjCUTYAAAAJ&amp;hl=en" target="_blank" rel="noopener">
-          <i class="ai ai-google-scholar"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="https://publons.com/researcher/1596875/christopher-prener/" target="_blank" rel="noopener">
-          <i class="ai ai-publons"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="//orcid.org/0000-0002-4310-9888" >
-          <i class="ai ai-orcid"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="//github.com/chris-prener" >
-          <i class="fab fa-github"></i>
-        </a>
-      </li>
-      
-    </ul>
+
+
+
+
+
+
+
   </div>
 </div>
 
 
-
-
-    
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
-      <ul>
-        
-        <li><a href="/courses/urbanwire/">SOC 3220 - Urban Sociology &amp; The Wire</a></li>
-        
-        <li><a href="/courses/introsoc/">SOC 1120 - Introduction to Sociology: Diversity &amp; Health</a></li>
-        
-        <li><a href="/courses/introgis/">SOC 4650 &amp; 5650 - Introduction to Geographic Information Science</a></li>
-        
-      </ul>
-    </div>
-    
-
-    
-
-    
-
-
-  </div>
-</article>
 
 <div class="container">
   <footer class="site-footer">
@@ -721,6 +706,9 @@ Like my GIS course, Quantitative Analysis is built around a number of common dat
 
     
     
+    
+    <script src="/js/mathjax-config.js"></script>
+    
 
     
     
@@ -738,6 +726,8 @@ Like my GIS course, Quantitative Analysis is built around a number of common dat
       
 
       
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
       
     
 

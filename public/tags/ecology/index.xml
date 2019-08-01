@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2018 Christopher G. Prener</copyright>
-    <lastBuildDate>Tue, 08 May 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/ecology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An R Package for Correcting Continuous Water Quality Monitoring Data for Drift</title>
+      <link>/publication/driftr_paper/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/driftr_paper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>driftR</title>
