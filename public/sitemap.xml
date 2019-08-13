@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-06-18T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
     
     <url>
@@ -12,8 +20,89 @@
     
     <url>
     
+      <loc>/</loc>
+      <lastmod>2019-06-18T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-06-18T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/r/</loc>
+      <lastmod>2019-06-18T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-06-18T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/ecology/</loc>
+      <lastmod>2019-06-18T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/open-science/</loc>
+      <lastmod>2019-06-18T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/software/</loc>
+      <lastmod>2019-06-18T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/gis/</loc>
+      <lastmod>2019-06-03T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/areal/</loc>
       <lastmod>2019-05-19T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/spatial-statistics/</loc>
+      <lastmod>2019-05-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -76,8 +165,26 @@
     
     <url>
     
+      <loc>/project/</loc>
+      <lastmod>2018-06-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/opengis/</loc>
       <lastmod>2018-06-19T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/urban/</loc>
+      <lastmod>2019-06-03T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -116,6 +223,15 @@
     
     <url>
     
+      <loc>/courses/</loc>
+      <lastmod>2019-06-03T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/courses/introsoc/</loc>
       <lastmod>2019-06-03T00:00:00-05:00</lastmod>
     </url>
@@ -148,8 +264,71 @@
     
     <url>
     
+      <loc>/tags/health/</loc>
+      <lastmod>2019-06-03T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/mental-health/</loc>
+      <lastmod>2019-06-03T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/statistics/</loc>
+      <lastmod>2019-06-03T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/teaching/</loc>
+      <lastmod>2019-06-03T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/visual-sociology/</loc>
+      <lastmod>2019-06-03T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/st.-louis/</loc>
+      <lastmod>2018-05-17T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/urban-prairie/</loc>
       <lastmod>2018-05-17T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/vacancy/</loc>
+      <lastmod>2018-05-17T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -180,6 +359,51 @@
     
     <url>
     
+      <loc>/tags/crime/</loc>
+      <lastmod>2018-05-07T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/ecometrics/</loc>
+      <lastmod>2018-05-07T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/race/</loc>
+      <lastmod>2018-05-07T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/segregation/</loc>
+      <lastmod>2018-05-07T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/st-louis/</loc>
+      <lastmod>2018-05-07T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/literacy/</loc>
       <lastmod>2018-05-06T00:00:00-05:00</lastmod>
     </url>
@@ -190,6 +414,24 @@
     
       <loc>/project/ems/</loc>
       <lastmod>2018-05-04T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/emergency-medicine/</loc>
+      <lastmod>2018-05-04T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/work/</loc>
+      <lastmod>2018-05-04T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -260,6 +502,51 @@
     
     <url>
     
+      <loc>/tags/sludss/</loc>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/data-backup/</loc>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/data-science/</loc>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/street-barriers/</loc>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-06:00</lastmod>
     </url>
@@ -300,304 +587,7 @@
     
     <url>
     
-      <loc>/publication_types/2/</loc>
-      <lastmod>2019-06-18T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/courses/</loc>
-      <lastmod>2019-06-03T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/gis/</loc>
-      <lastmod>2019-05-19T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2018-06-19T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2019-06-18T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/r/</loc>
-      <lastmod>2019-06-18T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/sludss/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/st.-louis/</loc>
-      <lastmod>2018-05-17T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/crime/</loc>
-      <lastmod>2018-05-07T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/data-backup/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/data-science/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/ecology/</loc>
-      <lastmod>2019-06-18T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/ecometrics/</loc>
-      <lastmod>2018-05-07T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/emergency-medicine/</loc>
-      <lastmod>2018-05-04T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/health/</loc>
-      <lastmod>2019-06-03T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/mental-health/</loc>
-      <lastmod>2019-06-03T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/open-science/</loc>
-      <lastmod>2019-06-18T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/race/</loc>
-      <lastmod>2018-05-07T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/segregation/</loc>
-      <lastmod>2018-05-07T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/software/</loc>
-      <lastmod>2019-06-18T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/spatial-statistics/</loc>
-      <lastmod>2019-05-19T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/spatial-statistics/</loc>
-      <lastmod>2018-05-07T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/st-louis/</loc>
-      <lastmod>2018-05-07T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/statistics/</loc>
-      <lastmod>2019-06-03T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/street-barriers/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/teaching/</loc>
-      <lastmod>2019-06-03T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/urban/</loc>
-      <lastmod>2018-06-19T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/vacancy/</loc>
-      <lastmod>2018-05-17T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/visual-sociology/</loc>
-      <lastmod>2019-06-03T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/work/</loc>
-      <lastmod>2018-05-04T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

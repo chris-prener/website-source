@@ -18,7 +18,7 @@
       <pubDate>Tue, 19 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/opengis/</guid>
-      <description>The SLU Data Science Seminar, which Chris is a founding co-organizer of, is the host of Chris&amp;rsquo;s openGIS project. The project is a collaborative effort with SLU students to curate and host GIS data about the St. Louis area in an accessible manner. We also maintain several R packages that contain tools for working with spatial data that orginiates locally as well as more general R tools for working with spatial data.</description>
+      <description>Multiple &lt;code&gt;R&lt;/code&gt; packages for using data about St. Louis and curated spatial data</description>
     </item>
     
     <item>
@@ -48,7 +48,7 @@ In the past, I have taught an upper-level undergraduate seminar focused on the m
       <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/redlining/</guid>
-      <description>This is a brand new project that I am planning to begin work on once my book manuscript Medicine at the Margins is completed. My plan is to use several new sources of spatial data to explore the intersection of historic redlining, contemporary segregation, and population health outcomes.</description>
+      <description>Historic redlining, contemporary segregation, and health</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@ In the past, I have taught an upper-level undergraduate seminar focused on the m
       <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/ecometrics/</guid>
-      <description>The Ecometric St. Louis project aims to document the effects of widespread crime, disinevestment, poverty, and segregation in St. Louis. I am specifically interested in measuring the relative &amp;ldquo;health&amp;rdquo; of neighborhoods in St. Louis by using metrics like the number of arson fires, violent crime rates, and vacant buildings. Another metric is the density of street closures in specific neighborhoods, which have been used since the 1970s to limit traffic into and out of particular neighborhoods on the city&amp;rsquo;s north side and across its midsection.</description>
+      <description>Vacancy, crime, neighborhood disorder, and street closures in St. Louis</description>
     </item>
     
     <item>
@@ -66,7 +66,7 @@ In the past, I have taught an upper-level undergraduate seminar focused on the m
       <pubDate>Fri, 04 May 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/ems/</guid>
-      <description>The Emergency Medical Services (EMS) project is Chris&amp;rsquo;s original graduate research project. Begun in 2009 as a pilot study and expanded between 2011 and 2015 as Chris&amp;rsquo;s dissertation research, the project has aimed to understand the constraints on urban EMS work. In particular, Chris&amp;rsquo;s dissertation used a mix of ethnographic, qualitative, quantiative, and spatial techniques to understand how EMS work simultaneously shapes and is shaped by the neighborhoods where it occurs.</description>
+      <description>Examining tensions and spatial patterns in urban ambulance work</description>
     </item>
     
   </channel>

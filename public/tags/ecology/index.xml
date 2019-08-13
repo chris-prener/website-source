@@ -27,7 +27,7 @@
       <pubDate>Tue, 08 May 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/driftr/</guid>
-      <description>The driftR project originated out of a series of conversations between Chris and an undergraduate student in his geoscience course, Andrew Shaughnessy, about reproducibility and the use of software to improve research processes. Andrew became specifically interested in improving the reproducibility of lab processes used in Dr. Elizabeth Hasenmueller&amp;rsquo;s Hydrology and Geochemsitry Lab at Saint Louis University, and the driftR project was born. Andrew, Liz, and Chris use the project to support the continued development of software tools, principally an R package, that implement a series of equations and techniques for working with water quality monitoring data.</description>
+      <description>&lt;code&gt;R&lt;/code&gt; package for drift correcting continuous water quality monitoring data</description>
     </item>
     
   </channel>
