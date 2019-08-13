@@ -6,8 +6,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2018 Christopher G. Prener</copyright>
-    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2019 12:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Getting the Most out of Coursework</title>
+      <link>/resources/teaching_overview/</link>
+      <pubDate>Tue, 13 Aug 2019 12:00:00 -0500</pubDate>
+      
+      <guid>/resources/teaching_overview/</guid>
+      <description>&lt;p&gt;Teaching&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An R Package for Correcting Continuous Water Quality Monitoring Data for Drift</title>
@@ -100,6 +110,52 @@
       
       <guid>/resources/macademic/</guid>
       <description>&lt;p&gt;This&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Studying for Exams</title>
+      <link>/resources/exams/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/resources/exams/</guid>
+      <description>
+
+&lt;p&gt;I get a lot of questions, particularly from first year students, about the best ways to study for my exams. Here are some general thoughts on maximizing your changes for success.&lt;/p&gt;
+
+&lt;h2 id=&#34;get-everything-together&#34;&gt;Get Everything Together&lt;/h2&gt;
+
+&lt;p&gt;When I give advice, I assume that students have been taking notes on the readings, lectures, and documentaries. I think this is the single best things you can do to maximize your chances for success on my exams. When it is time to start studying, I recommend &lt;em&gt;synthesizing&lt;/em&gt; everything. That is, taking all of your notes on a particular topic (like &amp;ldquo;Culture&amp;rdquo;) and combining them together into a single study guide for each major heading on the syllabus.&lt;/p&gt;
+
+&lt;p&gt;Focus on major headings and keywords from chapters and lectures, as well as the names that show up in readings and during class. The highest probability questions come from topics that appear in both the readings and the lectures, though I&amp;rsquo;ll pull a few questions from the lectures that weren&amp;rsquo;t part of a reading and vice versa. I tend to create exams that provide pretty even coverage of the lectures within each section.&lt;/p&gt;
+
+&lt;h2 id=&#34;things-to-focus-on&#34;&gt;Things to Focus On&lt;/h2&gt;
+
+&lt;p&gt;My exams combine two question types - multiple choice and short answer.&lt;/p&gt;
+
+&lt;h3 id=&#34;studying-for-multiple-choice-questions&#34;&gt;Studying for Multiple Choice Questions&lt;/h3&gt;
+
+&lt;p&gt;Multiple choice questions tend to revolve around demonstrating that you know the definition of key terms or can reverse the process and identify a key term if given the definition. I sometimes test names of important sociologists directly - &amp;ldquo;which classical theorist is associated with theories related to organizations and bureaucracy?&amp;rdquo; (A: Weber). Other times I use the name as a hint or a clue regarding the correct answer. Other times I test both of these things by providing a scenario - &amp;ldquo;this particular person has been in the news - their leadership style is best represented by which of these Weberian ideal-types?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;You want to make sure you know, therefore, the main ideas expressed in each major topic of the course, the people that go along with them, the social theories we discuss, and the substance of really critical pieces of evidence (I might ask, for example, about the essential details from a documentary, case study, or illustrative example we&amp;rsquo;ve discussed in class). Often, questions related to this final point are pretty general and if you read between the lines, you can zero in on the correct answer if you think about the major themes at play even if you can&amp;rsquo;t remember the specific example the question asks about.&lt;/p&gt;
+
+&lt;h3 id=&#34;studying-for-short-answer-questions&#34;&gt;Studying for Short Answer Questions&lt;/h3&gt;
+
+&lt;p&gt;The &amp;ldquo;Big Questions&amp;rdquo; on the lecture notes are good fodder for studying. You&amp;rsquo;ll be given an example of something, like a picture, plot, map, or just a short description of some social phenomenon, and be asked to connect it to what we&amp;rsquo;ve been talking about. These tend to focus on a specific week or lecture, but the best answers will pull information in from the class as a whole. The more specifics you can give, in terms of defining terms and fully exploring the idea in the prompt, the stronger your answer will be.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-do-course-docs-fit-in&#34;&gt;How do Course Docs fit in?&lt;/h2&gt;
+
+&lt;p&gt;Starting with the Fall 2019 semester, I&amp;rsquo;ve begun posting what I call &lt;a href=&#34;https://slu-soc1120.github.io/docs/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Course Docs&amp;rdquo;&lt;/a&gt;. These are experimental, and will not necessarily be available for all weeks of my intro course. The intent of these is not to re-hash or cover course material, but rather to take you &lt;em&gt;further&lt;/em&gt; if you &lt;em&gt;want to learn more&lt;/em&gt;. This means I &lt;strong&gt;will not be directly testing&lt;/strong&gt; the content of these pages. However, reading through them and using them as a jumping off point will help you learn the course material in a more thorough way. You should absolutely be able to be successful without them, of course, but you will be more confident in your mastery of the course material itself with them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/resources/teaching/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/resources/teaching/</guid>
+      <description>&lt;p&gt;The quick brown fox.&lt;/p&gt;
 </description>
     </item>
     
@@ -369,56 +425,6 @@
 &lt;p&gt;Once you&amp;rsquo;ve asked, and I&amp;rsquo;ve said &amp;lsquo;yes&amp;rsquo;, &lt;strong&gt;please follow-up as deadlines approach&lt;/strong&gt;. I do my best to get letters in before deadlines, and will reach out as I submit letters on your behalf to let you know about my progress. However, it is in your best interest to reach out if you have not heard from me and a deadline is approaching. Please don&amp;rsquo;t feel shy about reaching out.&lt;/p&gt;
 
 &lt;p&gt;Likewise, if you get one of the positions I&amp;rsquo;ve written a letter for, &lt;strong&gt;let me know&lt;/strong&gt;! It is always gratifying to hear about your successes, so please reach out with the good news!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SOC 1120 - Introduction to Sociology: Diversity &amp; Health</title>
-      <link>/courses/introsoc/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/courses/introsoc/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Next Offered Fall 2019&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I teach a section of Introduction to Sociology that uses health-related examples to introduce the major areas of interest in sociology. For each major topic, like social structure, race, or social class, major sociological principles are illustrated with examples drawn from the sociology of health and illness as well as allied fields like social epidemiology and public health.&lt;/p&gt;
-
-&lt;p&gt;The course targets pre-medicine students who are preparing for the new MCAT exam, which includes a substantive section focused on both psychology and sociology. While my course is not an MCAT exam prep course, it does cover many of the basic concepts that also appear on the MCAT.&lt;/p&gt;
-
-&lt;p&gt;The course also has an &lt;strong&gt;honors section&lt;/strong&gt; each semester. As a group, honors students select three weeks of the syllabus to take a deeper dive into, completing extra readings in preparation for a dedicated honors seminar for each week. Students also choose a class from the reading list that they are interested in doing some additional research on in preparation for a ten-minute presentation to their peers during that lecture.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc1120.github.io/syllabus/&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Syllabus &lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SOC 3220 - Urban Sociology &amp; The Wire</title>
-      <link>/courses/urbanwire/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/courses/urbanwire/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Next Offered Fall 2020&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In the past, I have taught an upper-level undergraduate seminar focused on the modern American city. Using a unique television series about Baltimore, Maryland (&lt;em&gt;The Wire&lt;/em&gt;, which aired from 2002 until 2008), this course investigates the structural causes of urban social problems, trace their development, and explore their consequences. We discuss the interrelations between different social issues, the similarities between the experiences of Baltimore and St. Louis, and the prospects for urban social change. We focus on the first three seasons of The Wire and what they reveal about aspects of racial and class inequality that have been the concern of urban sociologists for decades. The course also has an &lt;strong&gt;honors section&lt;/strong&gt; each semester.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;/files/syllabi/soc3220-syllabus.pdf&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-file-text&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Syllabus &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;/files/syllabi/soc3220-readingList.pdf&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-file-text&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Reading List &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;/files/syllabi/soc3220-honorsSupplement.pdf&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-file-text&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Honors Supplement &lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SOC 4015 &amp; 5050 - Quantitative Analysis: Applied Inferential Statistics</title>
-      <link>/courses/quantanalysis/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/courses/quantanalysis/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Next Offered Fall 2018&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I teach Quantitative Analysis at both the undergraduate and graduate levels. This course provides an introduction to applied statistical analysis with an emphasis placed on statistical techniques that are most common in the sociological literature. The statistical techniques introduced include measures of central tendency and dispersion as well as measures of bivariate association. Multivariate statistical analyses are also introduced.&lt;/p&gt;
-
-&lt;p&gt;Like my GIS course, Quantitative Analysis is built around a number of common data science tools and is designed to give students a solid grounding in modern scientific computing regardless of their background. &lt;a href=&#34;https://en.wikipedia.org/wiki/R_(programming_language)&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;R&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.rstudio.com&#34; target=&#34;_blank&#34;&gt;RStudio&lt;/a&gt; are the primary statistical tools used for this course.&lt;/p&gt;
-
-&lt;p&gt;The course is built primarily around a number of data sets I&amp;rsquo;ve put together for teaching (released as the &lt;code&gt;R&lt;/code&gt; package &lt;a href=&#34;https://chris-prener.github.io/testDriveR/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;testDriveR&lt;/code&gt;&lt;/a&gt;) as well as the Current Population Survey and the General Social Survey. While the examples may be specific to the social sciences, the theories and skills that are covered are broadly applicable across academic disciplines. The course&amp;rsquo;s final project requires students to conduct a multivariate statistical analysis using the 2012 General Social Survey (for undergraduates) or a data set selected by each student (for graduate students).&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc5050.github.io&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Website &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-outline&#34; href=&#34;https://slu-soc5050.github.io/syllabus/&#34; target=&#34;_blank&#34;&gt; &lt;i class=&#34;fa fa-share&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Course Syllabus &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
