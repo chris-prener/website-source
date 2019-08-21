@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS | Christopher Prener</title>
+    <link>/tags/gis/</link>
+      <atom:link href="/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+    <description>GIS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Christopher G. Prener</copyright><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>GIS</title>
+      <link>/tags/gis/</link>
+    </image>
+    
+    <item>
+      <title>Ecometric St. Louis</title>
+      <link>/project/st-louis/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/st-louis/</guid>
+      <description>&lt;p&gt;The Ecometric St. Louis project aims to document the effects of widespread crime, disinevestment, poverty, and segregation in St. Louis. I am specifically interested in measuring the relative &amp;ldquo;health&amp;rdquo; of neighborhoods in St. Louis by using metrics like the number of arson fires, violent crime rates, and vacant buildings. Another metric is the density of street closures in specific neighborhoods, which have been used since the 1970s to limit traffic into and out of particular neighborhoods on the city&amp;rsquo;s north side and across its midsection.&lt;/p&gt;
+
+&lt;p&gt;The Ecometric St. Louis project encompasses a number of research efforts, and details about each project can be found on their specific project websites:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Arson&lt;/em&gt; - an effort to document the concentration of and trace the co-variates associated with arson fires in St. Louis&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chris-prener.github.io/barriers/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Street Not Thru&lt;/em&gt;&lt;/a&gt; - an effort to produce the first master list of street closures in St. Louis, to examine the effectiveness of closures on crime, and to explore more generally the impact that defensible space has had on St. Louis&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chris-prener.github.io/vacancy/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Urban Prairies&lt;/em&gt;&lt;/a&gt; - an effort to document the volume of vacancy in St. Louis, its concentration in particular neighborhoods, correlates associated with vacancy, and its durability over time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Substantively, these projects aim to use St. Louis as a living labratory to explore tensions in urban life that persist not just here but in cities throughout the rust belt and around the United States. Methodologically, these efforts all use GIS and spatial statistics as well as large administrative data sets. I am committed to an open science research process with Ecometric St. Louis, including using open source software, providing access to our data and code, and archiving pre-prints of publications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Urban EMS Work</title>
+      <link>/project/ems/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/ems/</guid>
+      <description>&lt;p&gt;The Emergency Medical Services (EMS) project is Chris&amp;rsquo;s original graduate research project. Begun in 2009 as a pilot study and expanded between 2011 and 2015 as Chris&amp;rsquo;s dissertation research, the project has aimed to understand the constraints on urban EMS work. In particular, Chris&amp;rsquo;s dissertation used a mix of ethnographic, qualitative, quantiative, and spatial techniques to understand how EMS work simultaneously shapes and is shaped by the neighborhoods where it occurs. Providers experience the city during both downtime and on emergency calls, and play an informal role in managing a variety of social phenomena that are not, strictly speaking, medical emergencies. This marginalized work gives rise to negative perceptions of place on the part of providers with potential long-term consequences to residents of those neighborhoods.&lt;/p&gt;
+
+&lt;p&gt;This work is now being expanded as a book manuscript titled &lt;em&gt;Medicine at the Margins&lt;/em&gt;, which seeks to situate the EMS work explored in Chris&amp;rsquo;s dissertation in a wider institutional context. In &lt;em&gt;Medicine at the Margins&lt;/em&gt;, EMS work is framed as a marginalized occupation, not clearly situated in either medicine or public saftey. As an institution, then, the EMS system lacks a clear occupational identity. This marginality is furthered by the very character of EMS work, which is understood as &amp;ldquo;shit work&amp;rdquo; in both literal and figuritive senses. This tension between the imaginary of EMS work as treating &amp;ldquo;real emergencies&amp;rdquo; and the reality of EMS work as forming a key component of our response to socially marginalized individuals, first explored in Chris and Alisa Lincoln&amp;rsquo;s &lt;a href=&#34;/publication/psychcalls/&#34;&gt;2015 article&lt;/a&gt;, creates yet another tension for urban EMS providers to navigate.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
