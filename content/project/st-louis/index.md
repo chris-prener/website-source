@@ -5,6 +5,7 @@ tags:
 - crime
 - ecometrics
 - GIS
+- open science
 - spatial statistics
 - st. louis
 - urban

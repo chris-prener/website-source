@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Christopher G. Prener</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Christopher G. Prener</copyright><lastBuildDate>Sat, 24 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Chris is an urban and medical sociologist with an interest in mixed methods research designs that incorporate spatial data. He is currently revising his dissertation into a book manuscript entitled &lt;a href=&#34;/project/ems/&#34;&gt;&lt;em&gt;Medicine at the Margins&lt;/em&gt;&lt;/a&gt;. The book examines the effect of neighborhood context and conditions on emergency medical services work, particularly with patients who have mental illnesses or substance use disorders. With his student research team, Chris is also working on a &lt;a href=&#34;/project/ecometrics/&#34;&gt;large ecometric project&lt;/a&gt; aimed at understanding disorder and crime in St. Louis&amp;rsquo;s neighborhoods. He also remains part of a Northeastern-based research team examining the effects of &lt;a href=&#34;/project/literacy/&#34;&gt;limited literacy on mental illness&lt;/a&gt;.&lt;/p&gt;
 
@@ -24,9 +24,25 @@
     </item>
     
     <item>
+      <title>DJ Monti</title>
+      <link>/authors/dj-monti/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/dj-monti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TH Braswell</title>
+      <link>/authors/th-braswell/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/th-braswell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robert Ford</title>
       <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>

@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Details"
-  cta_url = "#"
+  cta_url = "https://slu-openGIS.github.io/areal"
   cta_icon_pack = "fas"
   cta_icon = "info-circle"
 
@@ -44,7 +44,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "Details"
-  cta_url = "#"
+  cta_url = "https://link.springer.com/article/10.1007/s10661-019-7586-x"
   cta_icon_pack = "fas"
   cta_icon = "info-circle"
 
@@ -58,7 +58,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   cta_label = "Details"
-  cta_url = "#"
+  cta_url = "https://slu-openGIS.github.io/censusxy"
   cta_icon_pack = "fas"
   cta_icon = "info-circle"
 +++

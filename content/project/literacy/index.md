@@ -1,6 +1,6 @@
 ---
 title: Literacy and Mental Illness
-summary: Examining the effect of limited literacy on mental health service users
+summary: Studying the effect of limited literacy on mental health service users
 tags:
 - health
 - mental health

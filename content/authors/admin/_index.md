@@ -18,7 +18,7 @@ organizations:
   url: "https://www.slu.edu/arts-and-sciences/sociology-anthropology/index.php"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include first responder work, urban neighborhood disorder, and tracing the effects of place on poor health outcomes.
 
 interests:
 - Health and Illness

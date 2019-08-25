@@ -5,12 +5,69 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher Prener</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Christopher G. Prener</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Christopher G. Prener</copyright><lastBuildDate>Sat, 24 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Christopher Prener</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Summer 2019 Updates</title>
+      <link>/post/summer-19/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/post/summer-19/</guid>
+      <description>
+
+&lt;p&gt;On Monday, we&amp;rsquo;ll be starting another school year here at &lt;a href=&#34;https://www.slu.edu&#34; target=&#34;_blank&#34;&gt;Saint Louis University&lt;/a&gt; with the &lt;a href=&#34;https://www.slu.edu/news/2019/august/record-freshman-class.php&#34; target=&#34;_blank&#34;&gt;largest first year class ever&lt;/a&gt;. With the end of summer officially upon us, I wanted to take a moment to recap my summer. Academia isn&amp;rsquo;t always sunshine and daisies, and I&amp;rsquo;m learning that it is important to celebrate whenever you have the opportunity!&lt;/p&gt;
+
+&lt;p&gt;That said, this summer was not all work - we moved after selling our house in Shaw this spring, and spent a few weeks road tripping Western New York (to see my parents) and to the North Country to see my in-laws. It is always good stop at St. Lawrence&amp;rsquo;s bookstore (me and my wife&amp;rsquo;s alma mater) on our way to Plattsburgh, and I also spent some time over in Rumney rock climbing with a bunch of SLU alumni who I&amp;rsquo;m lucky enough to still be so close with.&lt;/p&gt;
+
+&lt;p&gt;Despite the fun, this summer was mostly work, though, so without further adieu&amp;hellip;&lt;/p&gt;
+
+&lt;h3 id=&#34;teaching&#34;&gt;Teaching&lt;/h3&gt;
+
+&lt;p&gt;With such a large first year class, I was asked to switch from my typical mix of &lt;a href=&#34;https://slu-soc1120.github.io&#34; target=&#34;_blank&#34;&gt;Intro to Sociology&lt;/a&gt; with a diversity and health emphasis and &lt;a href=&#34;https://slu-soc5050.github.io&#34; target=&#34;_blank&#34;&gt;statistics&lt;/a&gt; to two sections of Intro to Sociology. This means that my statistics materials won&amp;rsquo;t be updated this year, which is a bit of a shame because I had wanted to refresh the website and move towards live coding and away from lecture slides with that course.&lt;/p&gt;
+
+&lt;p&gt;However, I&amp;rsquo;m thrilled to be teaching nearly 70 of our incoming first year students (along with 30 of their upper-class colleagues) in my Intro to Sociology sections. I&amp;rsquo;ve updated my &lt;a href=&#34;https://slu-soc1120.github.io/syllabus/&#34; target=&#34;_blank&#34;&gt;syllabus&lt;/a&gt; for the course and launched a new &lt;a href=&#34;https://slu-soc1120.github.io&#34; target=&#34;_blank&#34;&gt;course website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m also trying something new this semester that I am super excited about - course docs. I&amp;rsquo;ve been engaging in this practice with my research methods courses for two years now, using the &lt;code&gt;blogdown&lt;/code&gt; package to create simple course websites where I can share additional resources. With Intro, I&amp;rsquo;m planning to replicate this, focusing on linking to additional information people, events, and stories that I bring up in class.&lt;/p&gt;
+
+&lt;p&gt;For me, this is an important exercise in supporting students who haven&amp;rsquo;t been exposed to some of the material in the course before that I assume familiarity with. Breaking down barriers to &lt;a href=&#34;https://www.gse.harvard.edu/news/uk/19/04/real-advice-first-gens&#34; target=&#34;_blank&#34;&gt;assumed knowledge&lt;/a&gt; is particularly important for first generation students, and I&amp;rsquo;m excited to be adding this resource to my class. My first lecture&amp;rsquo;s docs are &lt;a href=&#34;https://slu-soc1120.github.io/docs/lecture-01/&#34; target=&#34;_blank&#34;&gt;already live&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;research-and-writing&#34;&gt;Research and Writing&lt;/h3&gt;
+
+&lt;p&gt;One the research end, it has been a busy summer - I&amp;rsquo;ve had two open science papers published in the &lt;a href=&#34;https://joss.theoj.org/papers/10.21105/joss.01221&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Journal of Open Source Software&lt;/em&gt;&lt;/a&gt; (with graduating senior Charlie Revord) and &lt;a href=&#34;https://link.springer.com/article/10.1007/s10661-019-7586-x&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Enviornmental Monitoring &amp;amp; Assessment&lt;/em&gt;&lt;/a&gt; (with SLU alumni Andrew Schaughnessy, now a doctoral student at Penn State, and our colleague Elizabeth Hasenmueller).&lt;/p&gt;
+
+&lt;p&gt;I also recieved an R&amp;amp;R on an essay that I&amp;rsquo;m really excited about, which recaps the path dependency through certain cities have become paradigmatic in urban sociology. I argue that pursuing a geographic selection of cities that is &lt;em&gt;broader&lt;/em&gt; (with particular attention needed on the American south and southwest), and contextually &lt;em&gt;deeper&lt;/em&gt; (by thinking of cities as having their own individual literatures), is one way to address the multiple recurrent criticisms of the field.&lt;/p&gt;
+
+&lt;p&gt;Two other papers from my work with colleagues at Northeastern University on &lt;a href=&#34;/project/literacy/&#34;&gt;literacy and mental health&lt;/a&gt; went out for peer review this summer, and we made progress on a pair of new manuscripts that pair our United States and Australian samples for the first time.&lt;/p&gt;
+
+&lt;p&gt;Speaking of progress on manuscripts, time was spent this summer revising our &lt;a href=&#34;https://osf.io/preprints/socarxiv/2wext/&#34; target=&#34;_blank&#34;&gt;pre-print&lt;/a&gt; on &lt;a href=&#34;https://chris-prener.github.io/barriers/&#34; target=&#34;_blank&#34;&gt;St. Louis&amp;rsquo;s street barriers&lt;/a&gt; and are re-fitting our models using Poisson models. The same models are planned for a paper on arson rates in the City of St. Louis, and I&amp;rsquo;m planning to share pre-prints of both these updated papers this fall.&lt;/p&gt;
+
+&lt;p&gt;Finally, my recently graduate student Charlie Revord and I have been working on revising his fascinating senior thesis, which used sentiment analysis to document patterns in stigmatization and trivialization of obsessive compulsive disorder on Twitter.&lt;/p&gt;
+
+&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
+
+&lt;p&gt;Two new packages were shipped this summer. The first, &lt;a href=&#34;https://slu-opengis.github.io/biscale/index.html&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;biscale&lt;/code&gt;&lt;/a&gt;, provides a workflow for creating bi-variate choropleth maps in &lt;code&gt;R&lt;/code&gt;. It builds upon some &lt;a href=&#34;https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/&#34; target=&#34;_blank&#34;&gt;previous work&lt;/a&gt; done by two co-authors on the package, Timo Grossenbacher and Angelo Zehr. I&amp;rsquo;ve been receiving bi-variate maps on Twitter all summer, from as far afield as Washington State, Ontario, England, and Latvia.&lt;/p&gt;
+
+&lt;p&gt;The second package that was shipped this summer, &lt;a href=&#34;https://slu-opengis.github.io/censusxy/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;censusx&lt;/code&gt;&lt;/a&gt;, is a joint effort with my rising SLU Senior Branson Fox. Our package provides reasonably fast, efficient access to the U.S. Census Bureau&amp;rsquo;s nationwide address geocoder. Branson and I will be building this functionality into our &lt;code&gt;gateway&lt;/code&gt; package, which includes a completely open source composite geocoder for the City of St. Louis, this fall.&lt;/p&gt;
+
+&lt;p&gt;In addition, an updated version of &lt;a href=&#34;https://slu-opengis.github.io/areal/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;areal&lt;/code&gt;&lt;/a&gt; (again with my recently graduate student Charlie Revord) was published as well as an update to &lt;a href=&#34;https://slu-opengis.github.io/compstatr/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;compstatr&lt;/code&gt;&lt;/a&gt;, which now has the ability to scrape monthly crime tables directly from the City of St. Louis&amp;rsquo;s website.&lt;/p&gt;
+
+&lt;h3 id=&#34;service&#34;&gt;Service&lt;/h3&gt;
+
+&lt;p&gt;Summer is typically a time when some of the service requirements for academics fall away for a few months, but I&amp;rsquo;m deep in the planning for &lt;a href=&#34;https://twitter.com/useR2020stl&#34; target=&#34;_blank&#34;&gt;useR! 2020&lt;/a&gt;, which we&amp;rsquo;re bringing to St. Louis in July 2020. I was one of five team members who got to attend useR! 2019 in Toulouse, France, and it was easily the best academic conference I&amp;rsquo;ve ever been too. Planning is going well (well, as well as can be expected!) and we&amp;rsquo;re almost ready to share some of the first big announcements with the world.&lt;/p&gt;
+
+&lt;p&gt;I also took some time this summer to revise the syllabus and policies for the Departmental Honors Thesis in Sociology, a research opportunity that I coordinate for the Sociology program. We just graduated our first two students who completed (very successfully!) theses, and the policy updates incorporate a lot of lessons we learned along the way. I also converted our policies into an FAQ that is meant to be a guide for our faculty and students.&lt;/p&gt;
+
+&lt;p&gt;Finally, we&amp;rsquo;re continuing to make progress on some initial research steps for the &lt;a href=&#34;https://www.stlvacancy.com&#34; target=&#34;_blank&#34;&gt;St. Louis Vacancy Initiative&lt;/a&gt;, a very important group of activists, lawyers, community development professionals, and some stray academics who are trying to address &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/07352166.2018.1474079&#34; target=&#34;_blank&#34;&gt;our city&amp;rsquo;s sky high vacancy rate&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;media&#34;&gt;Media&lt;/h3&gt;
+
+&lt;p&gt;Finally, I got a nice shoutout in the St. Louis Post-Dispatch &lt;a href=&#34;https://www.stltoday.com/news/local/columns/tony-messenger/messenger-connecting-the-dots-between-dead-kids-closing-the-workhouse/article_f3a32654-7c01-5fc1-a5b6-55e9ed2a3654.html&#34; target=&#34;_blank&#34;&gt;in June&lt;/a&gt;. Tony won a Pulitzer this year for his critically important coverage of debter prison practices in Missouri, and its great to see him digging into the pediatric homicide rate in St. Louis, which is heartbreakingly high.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An example preprint / working paper</title>
@@ -28,316 +85,11 @@
     </item>
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
-      <description>
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;./academic_0_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
-
-&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
-hugo new  --kind post post/my-post
-cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-
-&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
-
-# Copy the contents of Untitled.md and append it to index.md:
-cat Untitled.md | tee -a index.md
-
-# Remove the temporary file:
-rm Untitled.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-
-&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
-
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Setup Academic&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Updating? View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support development of Academic:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; &gt;
-
-&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; &gt;
-&lt;/a&gt;
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic comes with &lt;strong&gt;day (light) and night (dark) mode&lt;/strong&gt; built-in. Click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt; to see it in action!&lt;/p&gt;
-
-&lt;p&gt;Choose a stunning color and font theme for your site. Themes are fully customizable and include:&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
+      <title>St. Louis&#39;s &#39;Urban Prairie&#39;: Vacant Land and the Potential for Revitalization</title>
       <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -364,7 +116,7 @@ rm Untitled.md
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Chris is an urban and medical sociologist with an interest in mixed methods research designs that incorporate spatial data. He is currently revising his dissertation into a book manuscript entitled &lt;a href=&#34;/project/ems/&#34;&gt;&lt;em&gt;Medicine at the Margins&lt;/em&gt;&lt;/a&gt;. The book examines the effect of neighborhood context and conditions on emergency medical services work, particularly with patients who have mental illnesses or substance use disorders. With his student research team, Chris is also working on a &lt;a href=&#34;/project/ecometrics/&#34;&gt;large ecometric project&lt;/a&gt; aimed at understanding disorder and crime in St. Louis&amp;rsquo;s neighborhoods. He also remains part of a Northeastern-based research team examining the effects of &lt;a href=&#34;/project/literacy/&#34;&gt;limited literacy on mental illness&lt;/a&gt;.&lt;/p&gt;
 
