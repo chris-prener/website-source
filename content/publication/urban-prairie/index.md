@@ -26,12 +26,18 @@ abstract: As part of a larger project to understand the relative health and diso
 summary: 
 
 tags:
-- Source Themes
+- ecometrics
+- GIS
+- open science
+- spatial statistics
+- st. louis
+- urban
+- vacancy
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: Companion Site
+  url: https://chris-prener.github.io/vacancy/
 url_pdf: https://doi.org/10.1080/07352166.2018.1474079
 url_code: ''
 url_dataset: ''

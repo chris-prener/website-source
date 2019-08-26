@@ -5,7 +5,7 @@
     <link>/authors/th-braswell/</link>
       <atom:link href="/authors/th-braswell/index.xml" rel="self" type="application/rss+xml" />
     <description>TH Braswell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Christopher G. Prener</copyright><lastBuildDate>Thu, 17 May 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Christopher G. Prener</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>TH Braswell</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication/barriers-nhood/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/barriers-nhood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>St. Louis&#39;s &#39;Urban Prairie&#39;: Vacant Land and the Potential for Revitalization</title>
-      <link>/publication/journal-article/</link>
+      <link>/publication/urban-prairie/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
+      <guid>/publication/urban-prairie/</guid>
       <description></description>
     </item>
     

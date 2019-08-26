@@ -2,7 +2,7 @@
 title: Making Science More Open - Possibilities and Resources at SLU
 event: SLU Researchpalooza
 event_url: 
-location: St. Louis, M0
+location: Busch Student Center, Saint Louis University
 summary: An overview of open science practices and resources for implementing them at SLU, especially SLU's Data Science Seminar 
 abstract: ""
 
