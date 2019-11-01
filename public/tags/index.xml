@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Christopher G. Prener</copyright><lastBuildDate>Sat, 24 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Christopher G. Prener</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,16 +15,8 @@
     <item>
       <title>academics</title>
       <link>/tags/academics/</link>
-      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/tags/academics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GIS</title>
-      <link>/tags/gis/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/gis/</guid>
       <description></description>
     </item>
     
@@ -49,6 +41,14 @@
       <link>/tags/emergency-medicine/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/tags/emergency-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIS</title>
+      <link>/tags/gis/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/gis/</guid>
       <description></description>
     </item>
     

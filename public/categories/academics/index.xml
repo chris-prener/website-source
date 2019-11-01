@@ -5,12 +5,23 @@
     <link>/categories/academics/</link>
       <atom:link href="/categories/academics/index.xml" rel="self" type="application/rss+xml" />
     <description>Academics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Christopher G. Prener</copyright><lastBuildDate>Sat, 24 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Christopher G. Prener</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Academics</title>
       <link>/categories/academics/</link>
     </image>
+    
+    <item>
+      <title>Neighborhood Population Estimates</title>
+      <link>/post/jeff-vander-lou/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/jeff-vander-lou/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.stltoday.com/news/local/metro/small-church-steps-up-to-help-rebuild-a-broken-north/article_409db978-bfcb-5768-b355-c151a2143da4.html&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;St. Louis Post-Dispatch&lt;/em&gt;&lt;/a&gt; has published a feature story that includes discussion of data that I&amp;rsquo;ve produced for my &lt;a href=&#34;/project/redlining/&#34;&gt;redlining research in St. Louis&lt;/a&gt;. The data that were used in the story are &lt;a href=&#34;https://github.com/chris-prener/STL_DEMOGRAPHY_NhoodPop&#34; target=&#34;_blank&#34;&gt;publicly available&lt;/a&gt; and include a series of maps showing both the changing population density over time in St. Louis as well as the changing racial composition of neighborhoods. These data cover the Decennial Census years 1940 through 2010 as well as the American Community Survey years 2011-2017. These data illustrate stark changes over time. For instance, the image above can be compared to the current distribution of African Americans in St. Louis:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;map2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Summer 2019 Updates</title>
