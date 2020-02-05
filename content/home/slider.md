@@ -17,8 +17,22 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "New Publication"
-  content = "My R package `areal`, which implements a reproducible workflow for areal weighted interpolation, has been updated on CRAN and a related paper has recently been published in the *Journal of Open Source Software*. This is a joint effort with recent SLU graduate Charlie Revord."
-  align = "left"  # Choose `center`, `left`, or `right`.
+  content = "An article describing the rise of 'paradigmatic cities' (New York City, Chicago, Los Angeles) in urban sociology at the expense of other cities, like St. Louis. This was published in *Sociology Compass* in February, 2020."
+  align = "left"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  cta_label = "Details"
+  cta_url = "https://doi.org/10.1111/soc4.12756"
+  cta_icon_pack = "fas"
+  cta_icon = "info-circle"
+
+[[item]]
+  title = "New Publication"
+  content = "My R package `areal`, which implements a reproducible workflow for areal weighted interpolation, has been updated on CRAN and a related paper was published in the *Journal of Open Source Software* in Summer 2019. This is a joint effort with recent SLU graduate Charlie Revord."
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -31,20 +45,6 @@ height = ""
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Details"
   cta_url = "https://slu-openGIS.github.io/areal"
-  cta_icon_pack = "fas"
-  cta_icon = "info-circle"
-
-[[item]]
-  title = "New Publication"
-  content = "An article detailing the contributions of an R package I help develop and maintain, `driftR`, has recently been published in *Environmental Monitoring & Assessment*. This is a join project with SLU graduate Andrew Shaughnessy and colleague Elizabeth Hasenmueller, PhD."
-  align = "right"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  cta_label = "Details"
-  cta_url = "https://link.springer.com/article/10.1007/s10661-019-7586-x"
   cta_icon_pack = "fas"
   cta_icon = "info-circle"
 
